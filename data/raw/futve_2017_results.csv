@@ -1,0 +1,337 @@
+season,competition,phase,round,match_id,match_date_utc,match_date_local,home_team,away_team,home_score,away_score,result,source_url
+2017,Liga FUTVE,Apertura,Jornada 1,ATjY2Rvo,2017-01-28T19:00:00+00:00,2017-01-28T15:00:00-04:00,Zulia,Estudiantes M.,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 1,Y1xTO814,2017-01-28T21:00:00+00:00,2017-01-28T17:00:00-04:00,La Guaira,Atl. Socopo,4,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 1,GQRXNSGA,2017-01-28T21:00:00+00:00,2017-01-28T17:00:00-04:00,Lara,JBL Zulia,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 1,nozHRAHo,2017-01-29T15:00:00+00:00,2017-01-29T11:00:00-04:00,Atl. Venezuela,Metropolitanos,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 1,QyZKQUWi,2017-01-29T19:00:00+00:00,2017-01-29T15:00:00-04:00,Trujillanos,Dep. Anzoátegui,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 1,KbYOPlnb,2017-01-29T21:00:00+00:00,2017-01-29T17:00:00-04:00,Monagas,Caracas,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 1,fHQyNnWG,2017-01-29T22:30:00+00:00,2017-01-29T18:30:00-04:00,Zamora,Aragua,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 2,hWAvszRH,2017-02-03T19:00:00+00:00,2017-02-03T15:00:00-04:00,Portuguesa,Atl. Venezuela,1,3,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 2,SODSqxsa,2017-02-03T21:00:00+00:00,2017-02-03T17:00:00-04:00,Dep. Anzoátegui,Zulia,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 2,WdKJobCn,2017-02-04T19:00:00+00:00,2017-02-04T15:00:00-04:00,Atl. Socopo,Dep. Táchira,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 2,EuCzrGBB,2017-02-04T19:00:00+00:00,2017-02-04T15:00:00-04:00,Metropolitanos,Zamora,0,3,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 2,zRYmiKlP,2017-02-04T21:00:00+00:00,2017-02-04T17:00:00-04:00,Mineros,Lara,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 2,6FCWrdd5,2017-02-05T15:00:00+00:00,2017-02-05T11:00:00-04:00,Estudiantes M.,Trujillanos,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 2,xzLFnvct,2017-02-05T19:00:00+00:00,2017-02-05T15:00:00-04:00,Aragua,Monagas,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 2,p0ONpIRh,2017-02-06T23:00:00+00:00,2017-02-06T19:00:00-04:00,Caracas,La Guaira,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 3,zg97p9X9,2017-02-10T21:00:00+00:00,2017-02-10T17:00:00-04:00,Lara,Metropolitanos,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 3,OE1Ks7HS,2017-02-10T23:00:00+00:00,2017-02-10T19:00:00-04:00,Zamora,Mineros,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 3,YTO8P7ep,2017-02-11T15:00:00+00:00,2017-02-11T11:00:00-04:00,Aragua,Caracas,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 3,nXSCORAj,2017-02-12T15:00:00+00:00,2017-02-12T11:00:00-04:00,Atl. Venezuela,Dep. Táchira,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 3,vRFbnV2c,2017-02-12T19:00:00+00:00,2017-02-12T15:00:00-04:00,JBL Zulia,Dep. Anzoátegui,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 3,d2A3okI3,2017-02-12T19:00:00+00:00,2017-02-12T15:00:00-04:00,La Guaira,Estudiantes M.,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 3,tjCFrm2M,2017-02-12T20:00:00+00:00,2017-02-12T16:00:00-04:00,Trujillanos,Atl. Socopo,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 3,UF8BqTnG,2017-02-12T21:15:00+00:00,2017-02-12T17:15:00-04:00,Monagas,Zulia,3,4,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 3,0zHfmBmi,2017-02-13T23:00:00+00:00,2017-02-13T19:00:00-04:00,Carabobo,Portuguesa,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 4,SM2keQoS,2017-02-17T19:00:00+00:00,2017-02-17T15:00:00-04:00,Zulia,Lara,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 4,fchjxouj,2017-02-18T19:00:00+00:00,2017-02-18T15:00:00-04:00,Atl. Socopo,Atl. Venezuela,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 4,QNmnwRPq,2017-02-18T21:15:00+00:00,2017-02-18T17:15:00-04:00,Mineros,Trujillanos,4,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 4,rJYpbS19,2017-02-19T15:00:00+00:00,2017-02-19T11:00:00-04:00,Estudiantes M.,Monagas,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 4,ldZta8n3,2017-02-19T19:00:00+00:00,2017-02-19T15:00:00-04:00,Dep. Táchira,La Guaira,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 4,lW3od6WL,2017-02-19T19:30:00+00:00,2017-02-19T15:30:00-04:00,Portuguesa,JBL Zulia,0,3,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 4,M9XlcnHF,2017-02-19T20:00:00+00:00,2017-02-19T16:00:00-04:00,Metropolitanos,Aragua,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 4,zgVx0lXd,2017-02-19T21:15:00+00:00,2017-02-19T17:15:00-04:00,Dep. Anzoátegui,Carabobo,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 4,Ymify5fd,2017-02-20T23:00:00+00:00,2017-02-20T19:00:00-04:00,Caracas,Zamora,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 5,p2kHjpfq,2017-02-23T20:00:00+00:00,2017-02-23T16:00:00-04:00,Aragua,Dep. Anzoátegui,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 12,6TZw3T1d,2017-02-23T22:00:00+00:00,2017-02-23T18:00:00-04:00,Lara,Zamora,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 5,KKsUmrv2,2017-02-24T23:00:00+00:00,2017-02-24T19:00:00-04:00,La Guaira,Atl. Venezuela,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 5,tUrQlOOe,2017-02-25T19:00:00+00:00,2017-02-25T15:00:00-04:00,JBL Zulia,Zulia,1,3,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 5,nRZFBoW8,2017-02-25T20:00:00+00:00,2017-02-25T16:00:00-04:00,Metropolitanos,Caracas,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 5,UkPKA5oF,2017-02-25T20:00:00+00:00,2017-02-25T16:00:00-04:00,Monagas,Mineros,4,3,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 5,tQSO9P0L,2017-02-26T21:00:00+00:00,2017-02-26T17:00:00-04:00,Trujillanos,Dep. Táchira,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 5,8zyCCRG2,2017-02-27T20:30:00+00:00,2017-02-27T16:30:00-04:00,Lara,Portuguesa,6,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 5,zmSS8qGR,2017-02-27T23:00:00+00:00,2017-02-27T19:00:00-04:00,Zamora,Estudiantes M.,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 5,b5gLk49k,2017-02-28T23:00:00+00:00,2017-02-28T19:00:00-04:00,Carabobo,Atl. Socopo,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 6,tlBB0LN7,2017-03-04T20:00:00+00:00,2017-03-04T16:00:00-04:00,La Guaira,Lara,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 6,xdEf43Or,2017-03-04T21:00:00+00:00,2017-03-04T17:00:00-04:00,Mineros,Metropolitanos,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 6,MqlbOOFE,2017-03-05T15:00:00+00:00,2017-03-05T11:00:00-04:00,Estudiantes M.,Aragua,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 6,U9m2NrVK,2017-03-05T19:00:00+00:00,2017-03-05T15:00:00-04:00,Portuguesa,Monagas,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 6,fX8a3Nwk,2017-03-05T20:00:00+00:00,2017-03-05T16:00:00-04:00,Atl. Socopo,JBL Zulia,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 6,rgkfP408,2017-03-05T21:00:00+00:00,2017-03-05T17:00:00-04:00,Dep. Táchira,Carabobo,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 7,80n6M2pR,2017-03-10T20:00:00+00:00,2017-03-10T16:00:00-04:00,Aragua,Zulia,5,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 7,0bRpFKx1,2017-03-11T21:00:00+00:00,2017-03-11T17:00:00-04:00,Lara,Atl. Socopo,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 7,M7StG0Nf,2017-03-11T23:00:00+00:00,2017-03-11T19:00:00-04:00,JBL Zulia,Dep. Táchira,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 7,IZLkEvh7,2017-03-12T20:00:00+00:00,2017-03-12T16:00:00-04:00,Metropolitanos,Estudiantes M.,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 7,AT8yxrpE,2017-03-12T20:00:00+00:00,2017-03-12T16:00:00-04:00,Trujillanos,La Guaira,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 7,EsPYHMhr,2017-03-12T21:00:00+00:00,2017-03-12T17:00:00-04:00,Carabobo,Atl. Venezuela,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 7,SpTxHt8l,2017-03-12T21:00:00+00:00,2017-03-12T17:00:00-04:00,Caracas,Mineros,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 7,6mj4KFEt,2017-03-12T23:00:00+00:00,2017-03-12T19:00:00-04:00,Zamora,Portuguesa,6,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 8,zTsLGXD5,2017-03-18T20:00:00+00:00,2017-03-18T16:00:00-04:00,Dep. Anzoátegui,Metropolitanos,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 8,dxqHHDba,2017-03-19T15:00:00+00:00,2017-03-19T11:00:00-04:00,Atl. Venezuela,JBL Zulia,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 8,QHzYDVcO,2017-03-19T15:00:00+00:00,2017-03-19T11:00:00-04:00,Estudiantes M.,Caracas,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 8,S2vDIgqg,2017-03-19T19:00:00+00:00,2017-03-19T15:00:00-04:00,Atl. Socopo,Monagas,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 8,IiXPFiTB,2017-03-19T19:00:00+00:00,2017-03-19T15:00:00-04:00,La Guaira,Carabobo,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 8,48ZyDkDU,2017-03-19T19:30:00+00:00,2017-03-19T15:30:00-04:00,Portuguesa,Trujillanos,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 8,WfyUEBrI,2017-03-19T21:00:00+00:00,2017-03-19T17:00:00-04:00,Dep. Táchira,Lara,4,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 8,lCu9JZTn,2017-03-19T21:00:00+00:00,2017-03-19T17:00:00-04:00,Mineros,Aragua,3,3,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 8,SISzYYrt,2017-03-19T23:00:00+00:00,2017-03-19T19:00:00-04:00,Zulia,Zamora,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 6,Sp771181,2017-03-22T23:00:00+00:00,2017-03-22T19:00:00-04:00,Dep. Anzoátegui,Zamora,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 1,SrvqLQ0T,2017-03-24T23:00:00+00:00,2017-03-24T19:00:00-04:00,Dep. Táchira,Portuguesa,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 6,YN732sge,2017-03-26T20:00:00+00:00,2017-03-26T16:00:00-04:00,Atl. Venezuela,Trujillanos,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 7,dQKgDb7D,2017-03-26T20:00:00+00:00,2017-03-26T16:00:00-04:00,Monagas,Dep. Anzoátegui,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 13,8YDMRCvc,2017-03-26T22:30:00+00:00,2017-03-26T18:30:00-04:00,Zamora,JBL Zulia,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 9,69RvXhbn,2017-04-01T15:00:00+00:00,2017-04-01T11:00:00-04:00,Aragua,Portuguesa,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 9,EZUnVWSb,2017-04-01T19:00:00+00:00,2017-04-01T15:00:00-04:00,JBL Zulia,La Guaira,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 9,dbKiUjr5,2017-04-01T21:00:00+00:00,2017-04-01T17:00:00-04:00,Lara,Atl. Venezuela,2,3,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 9,4ONaSUCH,2017-04-01T23:00:00+00:00,2017-04-01T19:00:00-04:00,Metropolitanos,Zulia,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 9,rFM3RlSN,2017-04-01T23:00:00+00:00,2017-04-01T19:00:00-04:00,Monagas,Dep. Táchira,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 9,zkJeTAcB,2017-04-02T15:00:00+00:00,2017-04-02T11:00:00-04:00,Estudiantes M.,Mineros,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 9,QwC8Q8sU,2017-04-02T20:00:00+00:00,2017-04-02T16:00:00-04:00,Trujillanos,Carabobo,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 9,0WQrWCDh,2017-04-02T21:00:00+00:00,2017-04-02T17:00:00-04:00,Caracas,Dep. Anzoátegui,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 9,0W2zMSko,2017-04-02T23:00:00+00:00,2017-04-02T19:00:00-04:00,Zamora,Atl. Socopo,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 2,Mw92MH2H,2017-04-05T19:00:00+00:00,2017-04-05T15:00:00-04:00,JBL Zulia,Carabobo,0,4,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 11,fecMyf7S,2017-04-05T23:30:00+00:00,2017-04-05T19:30:00-04:00,Zamora,Atl. Venezuela,4,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 10,rFrZtURA,2017-04-08T21:00:00+00:00,2017-04-08T17:00:00-04:00,La Guaira,Zamora,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 10,lhqVsAC4,2017-04-08T23:00:00+00:00,2017-04-08T19:00:00-04:00,Dep. Anzoátegui,Estudiantes M.,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 10,hQkMqWsh,2017-04-09T15:00:00+00:00,2017-04-09T11:00:00-04:00,Atl. Venezuela,Monagas,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 10,EZjIpCSo,2017-04-09T19:00:00+00:00,2017-04-09T15:00:00-04:00,Atl. Socopo,Metropolitanos,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 10,vsxru8dN,2017-04-09T19:30:00+00:00,2017-04-09T15:30:00-04:00,Portuguesa,Caracas,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 10,IXznvSBT,2017-04-09T20:00:00+00:00,2017-04-09T16:00:00-04:00,Trujillanos,JBL Zulia,4,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 10,A1pRrjcb,2017-04-09T21:00:00+00:00,2017-04-09T17:00:00-04:00,Carabobo,Lara,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 10,dInwtlsH,2017-04-09T21:00:00+00:00,2017-04-09T17:00:00-04:00,Dep. Táchira,Aragua,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 10,zRxDZoKp,2017-04-09T23:00:00+00:00,2017-04-09T19:00:00-04:00,Zulia,Mineros,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 11,Sxyz49nj,2017-04-13T22:30:00+00:00,2017-04-13T18:30:00-04:00,Zulia,Carabobo,1,5,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 11,QF55ux83,2017-04-15T20:00:00+00:00,2017-04-15T16:00:00-04:00,Lara,Trujillanos,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 11,Ik2csbwi,2017-04-16T15:00:00+00:00,2017-04-16T11:00:00-04:00,Aragua,JBL Zulia,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 11,4649vdN9,2017-04-16T15:00:00+00:00,2017-04-16T11:00:00-04:00,Estudiantes M.,Dep. Táchira,1,4,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 11,MsaEwGxG,2017-04-16T20:00:00+00:00,2017-04-16T16:00:00-04:00,Metropolitanos,Portuguesa,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 11,EHyHY5Zj,2017-04-16T20:00:00+00:00,2017-04-16T16:00:00-04:00,Mineros,Dep. Anzoátegui,4,4,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 11,0YcIxzhM,2017-04-16T20:00:00+00:00,2017-04-16T16:00:00-04:00,Monagas,La Guaira,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 11,Wh61tIhc,2017-04-16T21:00:00+00:00,2017-04-16T17:00:00-04:00,Caracas,Atl. Socopo,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 12,vJVvfyNd,2017-04-22T19:00:00+00:00,2017-04-22T15:00:00-04:00,JBL Zulia,Monagas,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 12,6XoLZ6yr,2017-04-22T20:00:00+00:00,2017-04-22T16:00:00-04:00,Trujillanos,Zulia,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 12,j3xcVipd,2017-04-22T23:00:00+00:00,2017-04-22T19:00:00-04:00,Carabobo,Aragua,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 12,CCwgWXUk,2017-04-23T15:00:00+00:00,2017-04-23T11:00:00-04:00,Atl. Venezuela,Mineros,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 12,UmllXDFq,2017-04-23T19:00:00+00:00,2017-04-23T15:00:00-04:00,Atl. Socopo,Dep. Anzoátegui,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 12,EyOiiZ6F,2017-04-23T19:30:00+00:00,2017-04-23T15:30:00-04:00,Portuguesa,Estudiantes M.,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 12,0YJmhFi9,2017-04-23T21:00:00+00:00,2017-04-23T17:00:00-04:00,Dep. Táchira,Caracas,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 12,I9Urgex3,2017-04-23T21:00:00+00:00,2017-04-23T17:00:00-04:00,La Guaira,Metropolitanos,4,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 13,EerHgSSD,2017-04-26T19:00:00+00:00,2017-04-26T15:00:00-04:00,Metropolitanos,Trujillanos,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 13,QZ1MXp6f,2017-04-26T20:00:00+00:00,2017-04-26T16:00:00-04:00,Aragua,Atl. Socopo,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 13,bm0UVOz7,2017-04-26T23:00:00+00:00,2017-04-26T19:00:00-04:00,Dep. Anzoátegui,Dep. Táchira,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 13,Cj4YUrjD,2017-04-26T23:00:00+00:00,2017-04-26T19:00:00-04:00,Estudiantes M.,Carabobo,2,3,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 13,pOpPYQjl,2017-04-26T23:00:00+00:00,2017-04-26T19:00:00-04:00,Mineros,Portuguesa,0,3,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 13,4Q0QW4L0,2017-04-27T21:00:00+00:00,2017-04-27T17:00:00-04:00,Caracas,Atl. Venezuela,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 14,4vtao4zf,2017-04-29T19:00:00+00:00,2017-04-29T15:00:00-04:00,JBL Zulia,Metropolitanos,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 14,OUXjmQ5s,2017-04-30T15:00:00+00:00,2017-04-30T11:00:00-04:00,Atl. Venezuela,Aragua,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 14,YJXFsMZI,2017-04-30T19:30:00+00:00,2017-04-30T15:30:00-04:00,Portuguesa,Zulia,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 14,nNLc65CJ,2017-04-30T20:00:00+00:00,2017-04-30T16:00:00-04:00,Trujillanos,Monagas,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 14,xhv7qr56,2017-04-30T21:00:00+00:00,2017-04-30T17:00:00-04:00,Lara,Dep. Anzoátegui,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 14,6gNenpLm,2017-04-30T23:00:00+00:00,2017-04-30T19:00:00-04:00,Carabobo,Caracas,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 14,MLoPi6cQ,2017-05-01T14:00:00+00:00,2017-05-01T10:00:00-04:00,Atl. Socopo,Estudiantes M.,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 14,b1u3pOk0,2017-05-01T19:00:00+00:00,2017-05-01T15:00:00-04:00,La Guaira,Mineros,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 14,fTYBr2KC,2017-05-01T21:00:00+00:00,2017-05-01T17:00:00-04:00,Dep. Táchira,Zamora,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 6,b3WV4kXq,2017-05-03T22:30:00+00:00,2017-05-03T18:30:00-04:00,Zulia,Caracas,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 15,StgkdLlC,2017-05-06T21:00:00+00:00,2017-05-06T17:00:00-04:00,Monagas,Carabobo,3,3,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 15,0ficfaJO,2017-05-06T23:00:00+00:00,2017-05-06T19:00:00-04:00,Zulia,Atl. Venezuela,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 15,672U0qzs,2017-05-07T15:00:00+00:00,2017-05-07T11:00:00-04:00,Aragua,La Guaira,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 15,WEatbsKa,2017-05-07T15:00:00+00:00,2017-05-07T11:00:00-04:00,Estudiantes M.,Lara,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 15,pb1Ya3km,2017-05-07T20:00:00+00:00,2017-05-07T16:00:00-04:00,Caracas,JBL Zulia,4,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 15,hO0xaN4g,2017-05-07T20:00:00+00:00,2017-05-07T16:00:00-04:00,Dep. Anzoátegui,Portuguesa,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 15,Ewkoc1Z5,2017-05-07T20:00:00+00:00,2017-05-07T16:00:00-04:00,Metropolitanos,Dep. Táchira,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 15,0QP15PRP,2017-05-07T21:00:00+00:00,2017-05-07T17:00:00-04:00,Mineros,Atl. Socopo,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 15,M3hgeu4I,2017-05-08T21:00:00+00:00,2017-05-08T17:00:00-04:00,Zamora,Trujillanos,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 13,K8HQQWg3,2017-05-10T22:30:00+00:00,2017-05-10T18:30:00-04:00,Zulia,La Guaira,1,3,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 13,hnsLhnrK,2017-05-11T23:00:00+00:00,2017-05-11T19:00:00-04:00,Monagas,Lara,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 16,EVGUPj99,2017-05-13T19:00:00+00:00,2017-05-13T15:00:00-04:00,Atl. Socopo,Zulia,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 16,YsMBDMJn,2017-05-13T19:00:00+00:00,2017-05-13T15:00:00-04:00,JBL Zulia,Estudiantes M.,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 16,6XDOAK35,2017-05-13T21:00:00+00:00,2017-05-13T17:00:00-04:00,Dep. Táchira,Mineros,2,4,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 16,xCztJrdP,2017-05-14T15:00:00+00:00,2017-05-14T11:00:00-04:00,Atl. Venezuela,Dep. Anzoátegui,1,3,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 16,z7IS9vJB,2017-05-14T20:00:00+00:00,2017-05-14T16:00:00-04:00,Monagas,Metropolitanos,4,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 16,EcHW8bYH,2017-05-14T20:00:00+00:00,2017-05-14T16:00:00-04:00,Trujillanos,Aragua,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 16,vLM7E24t,2017-05-14T21:00:00+00:00,2017-05-14T17:00:00-04:00,Carabobo,Zamora,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 16,pIPFCtZh,2017-05-14T22:00:00+00:00,2017-05-14T18:00:00-04:00,La Guaira,Portuguesa,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 1,lhuuM6oN,2017-05-17T23:00:00+00:00,2017-05-17T19:00:00-04:00,Carabobo,Mineros,4,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 16,StFKB0la,2017-05-17T23:00:00+00:00,2017-05-17T19:00:00-04:00,Lara,Caracas,1,3,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 17,hMFYOAOF,2017-05-19T20:00:00+00:00,2017-05-19T16:00:00-04:00,Zulia,Dep. Táchira,0,3,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 17,vFJcNcmB,2017-05-20T23:00:00+00:00,2017-05-20T19:00:00-04:00,Zamora,Monagas,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 17,hbHoQa3h,2017-05-21T15:00:00+00:00,2017-05-21T11:00:00-04:00,Estudiantes M.,Atl. Venezuela,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 17,QBFgOwY4,2017-05-21T19:30:00+00:00,2017-05-21T15:30:00-04:00,Portuguesa,Atl. Socopo,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 17,WlGkPJIb,2017-05-21T20:00:00+00:00,2017-05-21T16:00:00-04:00,Metropolitanos,Carabobo,0,5,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 17,APAu7x3U,2017-05-21T21:00:00+00:00,2017-05-21T17:00:00-04:00,Aragua,Lara,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 17,nonoSLYu,2017-05-21T21:00:00+00:00,2017-05-21T17:00:00-04:00,Caracas,Trujillanos,4,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 17,QyokRuln,2017-05-21T21:00:00+00:00,2017-05-21T17:00:00-04:00,Dep. Anzoátegui,La Guaira,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura,Jornada 17,dM6y8ImO,2017-05-21T21:00:00+00:00,2017-05-21T17:00:00-04:00,Mineros,JBL Zulia,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura - Playoffs,Cuartos de final,d0soDClD,2017-05-26T19:00:00+00:00,2017-05-26T15:00:00-04:00,Caracas,Dep. Anzoátegui,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura - Playoffs,Cuartos de final,hlML3I12,2017-05-27T21:00:00+00:00,2017-05-27T17:00:00-04:00,La Guaira,Dep. Táchira,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura - Playoffs,Cuartos de final,I9rsEhZ6,2017-05-29T23:00:00+00:00,2017-05-29T19:00:00-04:00,Monagas,Zamora,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura - Playoffs,Cuartos de final,MskYFE4f,2017-06-04T19:30:00+00:00,2017-06-04T15:30:00-04:00,Aragua,Carabobo,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura - Playoffs,Cuartos de final,r5VUUVqs,2017-06-10T23:00:00+00:00,2017-06-10T19:00:00-04:00,Zamora,Monagas,1,3,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura - Playoffs,Cuartos de final,WvLP2xH8,2017-06-11T21:00:00+00:00,2017-06-11T17:00:00-04:00,Dep. Táchira,La Guaira,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura - Playoffs,Cuartos de final,nZqazhMJ,2017-06-11T23:30:00+00:00,2017-06-11T19:30:00-04:00,Carabobo,Aragua,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura - Playoffs,Cuartos de final,d8ZYTkam,2017-06-12T19:30:00+00:00,2017-06-12T15:30:00-04:00,Dep. Anzoátegui,Caracas,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura - Playoffs,Semifinales,KdBJ73It,2017-06-17T21:30:00+00:00,2017-06-17T17:30:00-04:00,La Guaira,Caracas,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura - Playoffs,Semifinales,ImPiCqAP,2017-06-18T00:00:00+00:00,2017-06-17T20:00:00-04:00,Monagas,Carabobo,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura - Playoffs,Semifinales,SMER5smg,2017-06-21T21:00:00+00:00,2017-06-21T17:00:00-04:00,Caracas,La Guaira,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura - Playoffs,Semifinales,EJAN6NXn,2017-06-21T23:30:00+00:00,2017-06-21T19:30:00-04:00,Carabobo,Monagas,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura - Playoffs,Final,zZ4Swqgg,2017-06-25T23:00:00+00:00,2017-06-25T19:00:00-04:00,Monagas,Caracas,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Apertura - Playoffs,Final,489Wx38a,2017-07-02T21:00:00+00:00,2017-07-02T17:00:00-04:00,Caracas,Monagas,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 1,boRqoJHE,2017-07-15T19:00:00+00:00,2017-07-15T15:00:00-04:00,JBL Zulia,Lara,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 1,rcF9q6tA,2017-07-15T19:00:00+00:00,2017-07-15T15:00:00-04:00,Portuguesa,Dep. Táchira,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 1,ABVkPyee,2017-07-15T19:30:00+00:00,2017-07-15T15:30:00-04:00,Dep. Anzoátegui,Trujillanos,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 1,ldssRcQr,2017-07-15T22:15:00+00:00,2017-07-15T18:15:00-04:00,Caracas,Monagas,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 1,xKEDrQeG,2017-07-16T15:00:00+00:00,2017-07-16T11:00:00-04:00,Estudiantes M.,Zulia,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 1,46G5pnR3,2017-07-16T19:00:00+00:00,2017-07-16T15:00:00-04:00,Atl. Socopo,La Guaira,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 1,4npgOeA1,2017-07-16T20:00:00+00:00,2017-07-16T16:00:00-04:00,Aragua,Zamora,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 1,rwqcNFP7,2017-07-16T20:00:00+00:00,2017-07-16T16:00:00-04:00,Metropolitanos,Atl. Venezuela,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 1,WKWoQHuk,2017-07-16T21:00:00+00:00,2017-07-16T17:00:00-04:00,Mineros,Carabobo,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 2,AN9dsNa0,2017-07-22T20:00:00+00:00,2017-07-22T16:00:00-04:00,Lara,Mineros,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 2,hnFir3pf,2017-07-22T20:00:00+00:00,2017-07-22T16:00:00-04:00,Monagas,Aragua,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 2,lE80tsF6,2017-07-22T22:15:00+00:00,2017-07-22T18:15:00-04:00,La Guaira,Caracas,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 2,dvC8vLqJ,2017-07-23T19:30:00+00:00,2017-07-23T15:30:00-04:00,Zulia,Dep. Anzoátegui,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 2,ry84u1UC,2017-07-23T20:00:00+00:00,2017-07-23T16:00:00-04:00,Atl. Venezuela,Portuguesa,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 2,xzke2OyQ,2017-07-23T20:00:00+00:00,2017-07-23T16:00:00-04:00,Trujillanos,Estudiantes M.,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 2,fTjMcrps,2017-07-23T21:00:00+00:00,2017-07-23T17:00:00-04:00,Dep. Táchira,Atl. Socopo,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 2,YJkQd2am,2017-07-23T22:30:00+00:00,2017-07-23T18:30:00-04:00,Zamora,Metropolitanos,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 2,bqji34MJ,2017-07-23T23:15:00+00:00,2017-07-23T19:15:00-04:00,Carabobo,JBL Zulia,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 3,bRzjibTO,2017-08-05T19:30:00+00:00,2017-08-05T15:30:00-04:00,Dep. Anzoátegui,JBL Zulia,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 3,GruVeMEg,2017-08-05T20:00:00+00:00,2017-08-05T16:00:00-04:00,Zulia,Monagas,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 3,UoqZftUa,2017-08-05T23:15:00+00:00,2017-08-05T19:15:00-04:00,Mineros,Zamora,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 3,O8rwf0q6,2017-08-06T15:00:00+00:00,2017-08-06T11:00:00-04:00,Metropolitanos,Lara,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 3,2assgKbC,2017-08-06T19:00:00+00:00,2017-08-06T15:00:00-04:00,Atl. Socopo,Trujillanos,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 3,KzxnhvEI,2017-08-06T19:30:00+00:00,2017-08-06T15:30:00-04:00,Portuguesa,Carabobo,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 3,CUOXFs6P,2017-08-06T20:00:00+00:00,2017-08-06T16:00:00-04:00,Estudiantes M.,La Guaira,1,3,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 3,nNFaB1Et,2017-08-06T21:00:00+00:00,2017-08-06T17:00:00-04:00,Caracas,Aragua,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 3,Uo54ALTn,2017-08-06T21:00:00+00:00,2017-08-06T17:00:00-04:00,Dep. Táchira,Atl. Venezuela,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 4,8x489uqg,2017-08-12T19:00:00+00:00,2017-08-12T15:00:00-04:00,JBL Zulia,Portuguesa,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 4,G27G7JD5,2017-08-12T21:00:00+00:00,2017-08-12T17:00:00-04:00,Aragua,Metropolitanos,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 4,xC8C8aba,2017-08-12T21:00:00+00:00,2017-08-12T17:00:00-04:00,Carabobo,Dep. Anzoátegui,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 4,4QOhlVCp,2017-08-13T15:00:00+00:00,2017-08-13T11:00:00-04:00,La Guaira,Dep. Táchira,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 4,CU0P5crI,2017-08-13T20:00:00+00:00,2017-08-13T16:00:00-04:00,Atl. Venezuela,Atl. Socopo,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 4,bRdL6wTB,2017-08-13T20:00:00+00:00,2017-08-13T16:00:00-04:00,Lara,Zulia,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 4,rHNdmkSj,2017-08-13T20:00:00+00:00,2017-08-13T16:00:00-04:00,Trujillanos,Mineros,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 4,r9TXBY4i,2017-08-13T20:30:00+00:00,2017-08-13T16:30:00-04:00,Monagas,Estudiantes M.,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 4,MaSyBhKc,2017-08-13T23:00:00+00:00,2017-08-13T19:00:00-04:00,Zamora,Caracas,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 5,UPVq9WlA,2017-08-16T19:00:00+00:00,2017-08-16T15:00:00-04:00,Atl. Socopo,Carabobo,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 5,2XIWaSBd,2017-08-16T19:30:00+00:00,2017-08-16T15:30:00-04:00,Dep. Anzoátegui,Aragua,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 5,Gz7EOBlc,2017-08-16T19:30:00+00:00,2017-08-16T15:30:00-04:00,Portuguesa,Lara,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 5,ClLl8j4G,2017-08-16T19:30:00+00:00,2017-08-16T15:30:00-04:00,Zulia,JBL Zulia,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 5,GMRuACZ3,2017-08-16T21:00:00+00:00,2017-08-16T17:00:00-04:00,Atl. Venezuela,La Guaira,4,2,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 5,4n0T08dj,2017-08-16T23:00:00+00:00,2017-08-16T19:00:00-04:00,Estudiantes M.,Zamora,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 5,KEOd6UYS,2017-08-16T23:00:00+00:00,2017-08-16T19:00:00-04:00,Mineros,Monagas,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 5,juKh7AJM,2017-08-16T23:15:00+00:00,2017-08-16T19:15:00-04:00,Caracas,Metropolitanos,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 5,MNAO1lsp,2017-08-16T23:30:00+00:00,2017-08-16T19:30:00-04:00,Dep. Táchira,Trujillanos,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 6,fR5INV33,2017-08-19T19:00:00+00:00,2017-08-19T15:00:00-04:00,JBL Zulia,Atl. Socopo,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 6,C20NMkJ9,2017-08-19T20:00:00+00:00,2017-08-19T16:00:00-04:00,Caracas,Zulia,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 6,rsq9XLkI,2017-08-19T20:00:00+00:00,2017-08-19T16:00:00-04:00,Lara,La Guaira,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 6,riv6ERQk,2017-08-19T23:00:00+00:00,2017-08-19T19:00:00-04:00,Carabobo,Dep. Táchira,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 6,40u2F7Bq,2017-08-20T15:00:00+00:00,2017-08-20T11:00:00-04:00,Aragua,Estudiantes M.,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 6,pGbVKTmM,2017-08-20T20:00:00+00:00,2017-08-20T16:00:00-04:00,Metropolitanos,Mineros,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 6,jgaRL9YF,2017-08-20T20:00:00+00:00,2017-08-20T16:00:00-04:00,Trujillanos,Atl. Venezuela,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 6,x4rDWu5O,2017-08-20T22:30:00+00:00,2017-08-20T18:30:00-04:00,Monagas,Portuguesa,4,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 6,bJ2ZJm3S,2017-08-20T22:30:00+00:00,2017-08-20T18:30:00-04:00,Zamora,Dep. Anzoátegui,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 7,Kd56IeqL,2017-08-26T21:00:00+00:00,2017-08-26T17:00:00-04:00,La Guaira,Trujillanos,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 7,jHwADotd,2017-08-27T19:00:00+00:00,2017-08-27T15:00:00-04:00,Atl. Socopo,Lara,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 7,t662JyUE,2017-08-27T19:00:00+00:00,2017-08-27T15:00:00-04:00,Portuguesa,Zamora,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 7,nq7bKHE8,2017-08-27T19:30:00+00:00,2017-08-27T15:30:00-04:00,Dep. Anzoátegui,Monagas,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 7,U7xEC5e2,2017-08-27T20:00:00+00:00,2017-08-27T16:00:00-04:00,Atl. Venezuela,Carabobo,1,3,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 7,Y3osCgMl,2017-08-27T20:00:00+00:00,2017-08-27T16:00:00-04:00,Estudiantes M.,Metropolitanos,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 7,Yu3fLca2,2017-08-27T20:00:00+00:00,2017-08-27T16:00:00-04:00,Zulia,Aragua,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 7,xYaBHFbR,2017-08-27T21:00:00+00:00,2017-08-27T17:00:00-04:00,Mineros,Caracas,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 8,QcAKPCjl,2017-09-01T23:00:00+00:00,2017-09-01T19:00:00-04:00,Zamora,Zulia,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 8,pvkoBDye,2017-09-02T19:00:00+00:00,2017-09-02T15:00:00-04:00,JBL Zulia,Atl. Venezuela,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 8,6gwf9i67,2017-09-02T20:00:00+00:00,2017-09-02T16:00:00-04:00,Lara,Dep. Táchira,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 8,n7BGQhyr,2017-09-02T21:00:00+00:00,2017-09-02T17:00:00-04:00,Carabobo,La Guaira,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 8,S2vjAXj1,2017-09-03T15:00:00+00:00,2017-09-03T11:00:00-04:00,Aragua,Mineros,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 8,f9WyYzq8,2017-09-03T20:00:00+00:00,2017-09-03T16:00:00-04:00,Metropolitanos,Dep. Anzoátegui,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 8,GOKpWEDK,2017-09-03T20:00:00+00:00,2017-09-03T16:00:00-04:00,Monagas,Atl. Socopo,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 8,YaVuXfbE,2017-09-03T20:00:00+00:00,2017-09-03T16:00:00-04:00,Trujillanos,Portuguesa,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 8,UROlVYSQ,2017-09-03T21:00:00+00:00,2017-09-03T17:00:00-04:00,Caracas,Estudiantes M.,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 9,QXvPMAz7,2017-09-09T19:00:00+00:00,2017-09-09T15:00:00-04:00,Dep. Anzoátegui,Caracas,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 9,QVmmRPRh,2017-09-09T23:00:00+00:00,2017-09-09T19:00:00-04:00,Carabobo,Trujillanos,5,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 9,hKtHOW5f,2017-09-10T19:00:00+00:00,2017-09-10T15:00:00-04:00,Atl. Socopo,Zamora,1,4,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 9,WAuLNjL0,2017-09-10T19:30:00+00:00,2017-09-10T15:30:00-04:00,Portuguesa,Aragua,4,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 9,8fwhQqsa,2017-09-10T20:00:00+00:00,2017-09-10T16:00:00-04:00,Atl. Venezuela,Lara,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 9,vyqTLUkD,2017-09-10T20:00:00+00:00,2017-09-10T16:00:00-04:00,Zulia,Metropolitanos,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 9,nukqS5Cn,2017-09-10T21:00:00+00:00,2017-09-10T17:00:00-04:00,Dep. Táchira,Monagas,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 9,ttNBpESD,2017-09-10T21:00:00+00:00,2017-09-10T17:00:00-04:00,La Guaira,JBL Zulia,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 9,I5puToct,2017-09-10T23:15:00+00:00,2017-09-10T19:15:00-04:00,Mineros,Estudiantes M.,4,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 10,hru4NsRH,2017-09-16T15:00:00+00:00,2017-09-16T11:00:00-04:00,Aragua,Dep. Táchira,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 10,KUtdP3d5,2017-09-16T19:00:00+00:00,2017-09-16T15:00:00-04:00,JBL Zulia,Trujillanos,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 10,Eit0ONBB,2017-09-16T20:00:00+00:00,2017-09-16T16:00:00-04:00,Lara,Carabobo,0,3,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 10,AJZ8M1tO,2017-09-17T20:00:00+00:00,2017-09-17T16:00:00-04:00,Estudiantes M.,Dep. Anzoátegui,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 10,QV9It5Ru,2017-09-17T20:00:00+00:00,2017-09-17T16:00:00-04:00,Metropolitanos,Atl. Socopo,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 10,vZDMuPtn,2017-09-17T21:00:00+00:00,2017-09-17T17:00:00-04:00,Caracas,Portuguesa,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 10,Mc3Rvqdh,2017-09-17T21:00:00+00:00,2017-09-17T17:00:00-04:00,Mineros,Zulia,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 10,lAYCLLeU,2017-09-17T22:00:00+00:00,2017-09-17T18:00:00-04:00,Monagas,Atl. Venezuela,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 10,0l2Vw3Bb,2017-09-18T13:00:00+00:00,2017-09-18T09:00:00-04:00,Zamora,La Guaira,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 7,vsnwDZ6r,2017-09-20T20:30:00+00:00,2017-09-20T16:30:00-04:00,Dep. Táchira,JBL Zulia,4,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 11,8E1ZxNQ4,2017-09-23T19:00:00+00:00,2017-09-23T15:00:00-04:00,JBL Zulia,Aragua,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 11,lYM8iMub,2017-09-23T21:00:00+00:00,2017-09-23T17:00:00-04:00,Carabobo,Zulia,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 11,UTkry1eH,2017-09-24T19:00:00+00:00,2017-09-24T15:00:00-04:00,Atl. Socopo,Caracas,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 11,xfgjZvQT,2017-09-24T19:30:00+00:00,2017-09-24T15:30:00-04:00,Dep. Anzoátegui,Mineros,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 11,rXgnzLAN,2017-09-24T19:30:00+00:00,2017-09-24T15:30:00-04:00,Portuguesa,Metropolitanos,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 11,n50wxstB,2017-09-24T20:00:00+00:00,2017-09-24T16:00:00-04:00,Atl. Venezuela,Zamora,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 11,GKO0grBo,2017-09-24T20:00:00+00:00,2017-09-24T16:00:00-04:00,La Guaira,Monagas,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 11,fBN4h2Qi,2017-09-25T23:00:00+00:00,2017-09-25T19:00:00-04:00,Dep. Táchira,Estudiantes M.,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 11,v3uIUbYp,2017-09-26T19:00:00+00:00,2017-09-26T15:00:00-04:00,Trujillanos,Lara,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 12,x8YOmvuN,2017-09-29T23:00:00+00:00,2017-09-29T19:00:00-04:00,Zulia,Trujillanos,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 12,nJuCjte4,2017-09-30T21:00:00+00:00,2017-09-30T17:00:00-04:00,Aragua,Carabobo,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 12,GbXSnbfT,2017-10-01T15:00:00+00:00,2017-10-01T11:00:00-04:00,Metropolitanos,La Guaira,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 12,8YTKlKPG,2017-10-01T19:30:00+00:00,2017-10-01T15:30:00-04:00,Dep. Anzoátegui,Atl. Socopo,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 12,ln2s6Lfi,2017-10-01T20:00:00+00:00,2017-10-01T16:00:00-04:00,Caracas,Dep. Táchira,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 12,MuAerI2p,2017-10-01T20:00:00+00:00,2017-10-01T16:00:00-04:00,Estudiantes M.,Portuguesa,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 12,zqEasxIj,2017-10-01T21:00:00+00:00,2017-10-01T17:00:00-04:00,Mineros,Atl. Venezuela,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 12,UsVGk0AA,2017-10-01T22:00:00+00:00,2017-10-01T18:00:00-04:00,Monagas,JBL Zulia,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 12,Sx1o5uAc,2017-10-01T22:30:00+00:00,2017-10-01T18:30:00-04:00,Zamora,Lara,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 13,nuHn3JvA,2017-10-04T19:00:00+00:00,2017-10-04T15:00:00-04:00,Atl. Socopo,Aragua,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 13,8lIr4aP3,2017-10-04T19:00:00+00:00,2017-10-04T15:00:00-04:00,JBL Zulia,Zamora,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 13,n3aZgF1d,2017-10-04T19:30:00+00:00,2017-10-04T15:30:00-04:00,Lara,Monagas,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 13,t2Gj2wfG,2017-10-04T19:30:00+00:00,2017-10-04T15:30:00-04:00,Portuguesa,Mineros,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 13,8C0Vfenj,2017-10-04T20:00:00+00:00,2017-10-04T16:00:00-04:00,Trujillanos,Metropolitanos,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 13,xU9a0HOS,2017-10-04T23:00:00+00:00,2017-10-04T19:00:00-04:00,Atl. Venezuela,Caracas,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 13,vwdReyXq,2017-10-04T23:00:00+00:00,2017-10-04T19:00:00-04:00,Carabobo,Estudiantes M.,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 13,l8wIIbvc,2017-10-04T23:00:00+00:00,2017-10-04T19:00:00-04:00,La Guaira,Zulia,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 14,0rsMHIg3,2017-10-07T21:00:00+00:00,2017-10-07T17:00:00-04:00,Aragua,Atl. Venezuela,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 14,MJd6d8Nf,2017-10-07T23:00:00+00:00,2017-10-07T19:00:00-04:00,Monagas,Trujillanos,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 14,f5tQGx99,2017-10-08T19:30:00+00:00,2017-10-08T15:30:00-04:00,Dep. Anzoátegui,Lara,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 14,Sdc2cl8l,2017-10-08T20:00:00+00:00,2017-10-08T16:00:00-04:00,Estudiantes M.,Atl. Socopo,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 14,l6bbbUhr,2017-10-08T20:00:00+00:00,2017-10-08T16:00:00-04:00,Metropolitanos,JBL Zulia,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 14,YeuUFdOF,2017-10-08T20:00:00+00:00,2017-10-08T16:00:00-04:00,Zulia,Portuguesa,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 14,IojFfnh7,2017-10-08T21:00:00+00:00,2017-10-08T17:00:00-04:00,Mineros,La Guaira,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 14,zN0AeSx1,2017-10-08T22:00:00+00:00,2017-10-08T18:00:00-04:00,Caracas,Carabobo,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 14,dxkJg67D,2017-10-08T22:30:00+00:00,2017-10-08T18:30:00-04:00,Zamora,Dep. Táchira,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 13,f5Kf1c9M,2017-10-13T21:00:00+00:00,2017-10-13T17:00:00-04:00,Dep. Táchira,Dep. Anzoátegui,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 15,xAPi85M6,2017-10-16T23:00:00+00:00,2017-10-16T19:00:00-04:00,Carabobo,Monagas,4,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 15,trWrARif,2017-10-17T19:30:00+00:00,2017-10-17T15:30:00-04:00,La Guaira,Aragua,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 15,2iXvB7xl,2017-10-17T19:30:00+00:00,2017-10-17T15:30:00-04:00,Portuguesa,Dep. Anzoátegui,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 15,8UXzCmNs,2017-10-18T19:00:00+00:00,2017-10-18T15:00:00-04:00,Atl. Socopo,Mineros,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 15,Agh0IkpE,2017-10-18T19:00:00+00:00,2017-10-18T15:00:00-04:00,JBL Zulia,Caracas,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 15,lpi4H9aK,2017-10-18T19:30:00+00:00,2017-10-18T15:30:00-04:00,Lara,Estudiantes M.,3,3,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 15,bJQm9o70,2017-10-18T21:00:00+00:00,2017-10-18T17:00:00-04:00,Dep. Táchira,Metropolitanos,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 15,WWOe7PyD,2017-10-18T22:00:00+00:00,2017-10-18T18:00:00-04:00,Trujillanos,Zamora,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 15,W8t9GTEQ,2017-10-18T23:30:00+00:00,2017-10-18T19:30:00-04:00,Atl. Venezuela,Zulia,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 16,OQmZKr6C,2017-10-22T19:30:00+00:00,2017-10-22T15:30:00-04:00,Aragua,Trujillanos,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 16,fodIOQ6m,2017-10-22T19:30:00+00:00,2017-10-22T15:30:00-04:00,Caracas,Lara,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 16,r7Sa6qiJ,2017-10-22T19:30:00+00:00,2017-10-22T15:30:00-04:00,Dep. Anzoátegui,Atl. Venezuela,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 16,O25nUnqQ,2017-10-22T19:30:00+00:00,2017-10-22T15:30:00-04:00,Estudiantes M.,JBL Zulia,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 16,xAoNNpMg,2017-10-22T19:30:00+00:00,2017-10-22T15:30:00-04:00,Metropolitanos,Monagas,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 16,pzkVLOj6,2017-10-22T19:30:00+00:00,2017-10-22T15:30:00-04:00,Mineros,Dep. Táchira,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 16,GfcEP6is,2017-10-22T19:30:00+00:00,2017-10-22T15:30:00-04:00,Portuguesa,La Guaira,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 16,pC6rVSTJ,2017-10-22T19:30:00+00:00,2017-10-22T15:30:00-04:00,Zamora,Carabobo,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 16,jDkRM4y0,2017-10-22T19:30:00+00:00,2017-10-22T15:30:00-04:00,Zulia,Atl. Socopo,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 17,OtxczO5a,2017-10-29T19:30:00+00:00,2017-10-29T15:30:00-04:00,Atl. Socopo,Portuguesa,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 17,YiqpwQLt,2017-10-29T19:30:00+00:00,2017-10-29T15:30:00-04:00,Atl. Venezuela,Estudiantes M.,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 17,GGYlxpym,2017-10-29T19:30:00+00:00,2017-10-29T15:30:00-04:00,Carabobo,Metropolitanos,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 17,pdQ5Y1zC,2017-10-29T19:30:00+00:00,2017-10-29T15:30:00-04:00,Dep. Táchira,Zulia,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 17,f7Xhy4jg,2017-10-29T19:30:00+00:00,2017-10-29T15:30:00-04:00,JBL Zulia,Mineros,0,3,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 17,4x5WJ2LI,2017-10-29T19:30:00+00:00,2017-10-29T15:30:00-04:00,La Guaira,Dep. Anzoátegui,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 17,rT3zJMzP,2017-10-29T19:30:00+00:00,2017-10-29T15:30:00-04:00,Lara,Aragua,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 17,2Xz1ZsL5,2017-10-29T19:30:00+00:00,2017-10-29T15:30:00-04:00,Monagas,Zamora,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura,Jornada 17,dWiIs6DP,2017-10-29T19:30:00+00:00,2017-10-29T15:30:00-04:00,Trujillanos,Caracas,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura - Playoffs,Cuartos de final,K4Z1i0Ur,2017-11-04T19:00:00+00:00,2017-11-04T15:00:00-04:00,La Guaira,Mineros,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura - Playoffs,Cuartos de final,ERY5jKqk,2017-11-05T19:30:00+00:00,2017-11-05T15:30:00-04:00,Caracas,Carabobo,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura - Playoffs,Cuartos de final,rqrzdtMR,2017-11-05T21:45:00+00:00,2017-11-05T17:45:00-04:00,Monagas,Estudiantes M.,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura - Playoffs,Cuartos de final,0KhVdM6L,2017-11-06T00:00:00+00:00,2017-11-05T20:00:00-04:00,Zamora,Lara,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura - Playoffs,Cuartos de final,hIX9kvae,2017-11-11T19:30:00+00:00,2017-11-11T15:30:00-04:00,Lara,Zamora,6,2,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura - Playoffs,Cuartos de final,AgSElbE1,2017-11-11T21:45:00+00:00,2017-11-11T17:45:00-04:00,Estudiantes M.,Monagas,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura - Playoffs,Cuartos de final,lpRImIT7,2017-11-12T21:00:00+00:00,2017-11-12T17:00:00-04:00,Mineros,La Guaira,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura - Playoffs,Cuartos de final,2mF0C168,2017-11-12T23:15:00+00:00,2017-11-12T19:15:00-04:00,Carabobo,Caracas,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura - Playoffs,Semifinales,Y9fopkiq,2017-11-18T23:00:00+00:00,2017-11-18T19:00:00-04:00,Monagas,Lara,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura - Playoffs,Semifinales,SSHIlVrS,2017-11-19T23:00:00+00:00,2017-11-19T19:00:00-04:00,Carabobo,Mineros,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura - Playoffs,Semifinales,nDbkq96k,2017-11-25T21:00:00+00:00,2017-11-25T17:00:00-04:00,Mineros,Carabobo,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura - Playoffs,Semifinales,tzbgrTLe,2017-11-26T19:00:00+00:00,2017-11-26T15:00:00-04:00,Lara,Monagas,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura - Playoffs,Final,GCnOkNKf,2017-12-03T21:00:00+00:00,2017-12-03T17:00:00-04:00,Mineros,Lara,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Clausura - Playoffs,Final,f3oSlsz1,2017-12-09T19:00:00+00:00,2017-12-09T15:00:00-04:00,Lara,Mineros,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Superfinal,Final,8CCftwOR,2017-12-13T23:00:00+00:00,2017-12-13T19:00:00-04:00,Monagas,Lara,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/
+2017,Liga FUTVE,Superfinal,Final,ALbMycWr,2017-12-17T19:00:00+00:00,2017-12-17T15:00:00-04:00,Lara,Monagas,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2017/resultados/

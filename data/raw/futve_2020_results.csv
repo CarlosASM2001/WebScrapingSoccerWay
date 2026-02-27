@@ -1,0 +1,185 @@
+season,competition,phase,round,match_id,match_date_utc,match_date_local,home_team,away_team,home_score,away_score,result,source_url
+2020,Liga FUTVE,Primera fase,Jornada 1,2cGU0ou9,2020-01-30T21:00:00+00:00,2020-01-30T17:00:00-04:00,Portuguesa,Mineros,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 1,pM5Za5fF,2020-01-31T15:00:00+00:00,2020-01-31T11:00:00-04:00,Metropolitanos,Aragua,1,3,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 1,OC4waP9L,2020-01-31T23:00:00+00:00,2020-01-31T19:00:00-04:00,Lara,Zulia,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 1,hn9sbqPR,2020-02-01T19:30:00+00:00,2020-02-01T15:30:00-04:00,Yaracuyanos,Atl. Venezuela,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 1,xKpEhNnk,2020-02-01T20:00:00+00:00,2020-02-01T16:00:00-04:00,AC Lala FC,Monagas,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 1,fee9g3Xr,2020-02-01T23:00:00+00:00,2020-02-01T19:00:00-04:00,Dep. Táchira,Puerto Cabello,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 1,pplMj1H1,2020-02-02T19:30:00+00:00,2020-02-02T15:30:00-04:00,Carabobo,Gran Valencia,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 1,jNlIis2e,2020-02-02T22:15:00+00:00,2020-02-02T18:15:00-04:00,Caracas,Estudiantes M.,5,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 1,OzmQkLW7,2020-02-03T22:00:00+00:00,2020-02-03T18:00:00-04:00,Zamora,Trujillanos,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 2,hU1h6UmT,2020-02-07T20:00:00+00:00,2020-02-07T16:00:00-04:00,Trujillanos,Lara,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 2,bBvL1ldp,2020-02-07T23:00:00+00:00,2020-02-07T19:00:00-04:00,Puerto Cabello,Zamora,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 2,6D3p8jJG,2020-02-08T15:00:00+00:00,2020-02-08T11:00:00-04:00,Caracas,La Guaira,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 2,xYBTBYJi,2020-02-08T19:30:00+00:00,2020-02-08T15:30:00-04:00,Gran Valencia,Yaracuyanos,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 2,CErP08Bj,2020-02-08T22:00:00+00:00,2020-02-08T18:00:00-04:00,Aragua,Dep. Táchira,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 2,SM4t9W3A,2020-02-09T15:00:00+00:00,2020-02-09T11:00:00-04:00,Estudiantes M.,AC Lala FC,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 2,bsDPCE4o,2020-02-09T20:00:00+00:00,2020-02-09T16:00:00-04:00,Atl. Venezuela,Metropolitanos,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 2,pbFyACl4,2020-02-09T21:00:00+00:00,2020-02-09T17:00:00-04:00,Monagas,Portuguesa,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 2,WfBXAhZc,2020-02-10T22:00:00+00:00,2020-02-10T18:00:00-04:00,Mineros,Carabobo,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 3,hMijOHR4,2020-02-14T20:00:00+00:00,2020-02-14T16:00:00-04:00,Yaracuyanos,Mineros,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 3,pdhnPcCb,2020-02-15T15:00:00+00:00,2020-02-15T11:00:00-04:00,Atl. Venezuela,Gran Valencia,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 3,Svp3LFBN,2020-02-15T20:00:00+00:00,2020-02-15T16:00:00-04:00,AC Lala FC,La Guaira,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 3,tbYYTeH9,2020-02-15T23:00:00+00:00,2020-02-15T19:00:00-04:00,Zamora,Aragua,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 3,M1q7KZQT,2020-02-16T15:00:00+00:00,2020-02-16T11:00:00-04:00,Caracas,Zulia,4,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 3,WCjfNysB,2020-02-16T20:00:00+00:00,2020-02-16T16:00:00-04:00,Carabobo,Monagas,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 3,0SEHvwCo,2020-02-16T21:00:00+00:00,2020-02-16T17:00:00-04:00,Dep. Táchira,Metropolitanos,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 3,EytaMedH,2020-02-16T21:00:00+00:00,2020-02-16T17:00:00-04:00,Portuguesa,Estudiantes M.,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 3,OAVYFgZp,2020-02-17T23:00:00+00:00,2020-02-17T19:00:00-04:00,Lara,Puerto Cabello,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 4,YukHSWIj,2020-02-21T23:00:00+00:00,2020-02-21T19:00:00-04:00,Dep. Táchira,Zamora,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 4,Sv6YzeBA,2020-02-22T15:00:00+00:00,2020-02-22T11:00:00-04:00,Estudiantes M.,Carabobo,4,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 4,vJDLwcRi,2020-02-22T20:00:00+00:00,2020-02-22T16:00:00-04:00,Metropolitanos,Gran Valencia,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 4,KxoDTC3p,2020-02-22T21:00:00+00:00,2020-02-22T17:00:00-04:00,Aragua,Lara,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 4,Ee8pYheT,2020-02-23T15:00:00+00:00,2020-02-23T11:00:00-04:00,La Guaira,Portuguesa,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 4,z59tZYuN,2020-02-23T20:00:00+00:00,2020-02-23T16:00:00-04:00,Trujillanos,Caracas,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 4,pGGTyyd4,2020-02-23T21:00:00+00:00,2020-02-23T17:00:00-04:00,Mineros,Atl. Venezuela,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 4,6V4xzFQG,2020-02-24T20:00:00+00:00,2020-02-24T16:00:00-04:00,Zulia,AC Lala FC,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 4,YuDPxHtb,2020-02-24T22:00:00+00:00,2020-02-24T18:00:00-04:00,Monagas,Yaracuyanos,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 5,My0GoCPS,2020-02-28T19:30:00+00:00,2020-02-28T15:30:00-04:00,Gran Valencia,Mineros,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 5,Wn73lEuA,2020-02-28T23:00:00+00:00,2020-02-28T19:00:00-04:00,Caracas,Puerto Cabello,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 5,OpnrsWXq,2020-02-29T15:00:00+00:00,2020-02-29T11:00:00-04:00,Atl. Venezuela,Monagas,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 5,hd8akfQ3,2020-02-29T20:00:00+00:00,2020-02-29T16:00:00-04:00,AC Lala FC,Trujillanos,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 5,Q967mYfG,2020-02-29T23:00:00+00:00,2020-02-29T19:00:00-04:00,Lara,Dep. Táchira,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 5,KlXxTFWF,2020-03-01T15:00:00+00:00,2020-03-01T11:00:00-04:00,Carabobo,La Guaira,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 5,nqwaiGei,2020-03-01T19:30:00+00:00,2020-03-01T15:30:00-04:00,Yaracuyanos,Estudiantes M.,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 5,QZy3jzBc,2020-03-01T20:00:00+00:00,2020-03-01T16:00:00-04:00,Portuguesa,Zulia,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 5,vDABnhAM,2020-03-02T23:00:00+00:00,2020-03-02T19:00:00-04:00,Zamora,Metropolitanos,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 6,YDlFqPgr,2020-03-06T22:00:00+00:00,2020-03-06T18:00:00-04:00,Aragua,Caracas,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 6,xQRsSZoM,2020-03-07T15:00:00+00:00,2020-03-07T11:00:00-04:00,La Guaira,Yaracuyanos,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 6,YFTY3guc,2020-03-08T15:00:00+00:00,2020-03-08T11:00:00-04:00,Estudiantes M.,Atl. Venezuela,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 6,vDWt2X99,2020-03-08T20:00:00+00:00,2020-03-08T16:00:00-04:00,Trujillanos,Portuguesa,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 6,pjXx3Df3,2020-03-08T20:00:00+00:00,2020-03-08T16:00:00-04:00,Zulia,Carabobo,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 6,WAkjuA2d,2020-03-08T21:00:00+00:00,2020-03-08T17:00:00-04:00,Monagas,Gran Valencia,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 6,hKjntjmj,2020-03-08T22:00:00+00:00,2020-03-08T18:00:00-04:00,Metropolitanos,Mineros,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 6,I3Vp1iPF,2020-03-09T21:00:00+00:00,2020-03-09T17:00:00-04:00,Puerto Cabello,AC Lala FC,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Primera fase,Jornada 6,C4mJrq9l,2020-03-09T23:00:00+00:00,2020-03-09T19:00:00-04:00,Zamora,Lara,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 1,IwO9Iz4h,2020-10-14T21:00:00+00:00,2020-10-14T17:00:00-04:00,Estudiantes M.,Yaracuyanos,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 1,OzRHGEY4,2020-10-15T00:00:00+00:00,2020-10-14T20:00:00-04:00,Mineros,Atl. Venezuela,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 1,2RPLFYmB,2020-10-15T19:00:00+00:00,2020-10-15T15:00:00-04:00,La Guaira,Carabobo,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 1,UDRDHfJb,2020-10-15T21:30:00+00:00,2020-10-15T17:30:00-04:00,Lara,Trujillanos,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 2,YLSvKi4L,2020-10-17T21:00:00+00:00,2020-10-17T17:00:00-04:00,Carabobo,Mineros,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 2,235ajMqO,2020-10-18T01:00:00+00:00,2020-10-17T21:00:00-04:00,Trujillanos,Estudiantes M.,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 2,tjUlSldr,2020-10-18T19:30:00+00:00,2020-10-18T15:30:00-04:00,Yaracuyanos,Puerto Cabello,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 2,KIrokI22,2020-10-18T21:50:00+00:00,2020-10-18T17:50:00-04:00,Atl. Venezuela,Lara,0,3,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 3,v1h9u5V5,2020-10-20T21:00:00+00:00,2020-10-20T17:00:00-04:00,La Guaira,Trujillanos,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 3,KEW3IvTG,2020-10-21T00:00:00+00:00,2020-10-20T20:00:00-04:00,Mineros,Yaracuyanos,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 3,b9sklxI8,2020-10-21T21:00:00+00:00,2020-10-21T17:00:00-04:00,Lara,Puerto Cabello,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 3,lz0rxQP6,2020-10-22T00:00:00+00:00,2020-10-21T20:00:00-04:00,Carabobo,Atl. Venezuela,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 4,tYWgmdXE,2020-10-24T21:00:00+00:00,2020-10-24T17:00:00-04:00,La Guaira,Lara,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 4,KtThR8Bl,2020-10-25T00:00:00+00:00,2020-10-24T20:00:00-04:00,Atl. Venezuela,Puerto Cabello,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 4,Aq1vw6A0,2020-10-25T19:00:00+00:00,2020-10-25T15:00:00-04:00,Carabobo,Estudiantes M.,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 1,bgJUDCIN,2020-10-25T21:00:00+00:00,2020-10-25T17:00:00-04:00,Metropolitanos,Aragua,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 4,IiiDvPpC,2020-10-25T23:00:00+00:00,2020-10-25T19:00:00-04:00,Trujillanos,Yaracuyanos,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 1,UyA08jto,2020-10-26T01:00:00+00:00,2020-10-25T21:00:00-04:00,Caracas,Zamora,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 1,hGIYCWXT,2020-10-26T21:00:00+00:00,2020-10-26T17:00:00-04:00,Monagas,Dep. Táchira,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 1,K2KQEh3H,2020-10-27T00:00:00+00:00,2020-10-26T20:00:00-04:00,Portuguesa,Gran Valencia,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 5,8tSQ6sU4,2020-10-27T21:00:00+00:00,2020-10-27T17:00:00-04:00,Estudiantes M.,La Guaira,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 5,hAaNVT1s,2020-10-28T00:00:00+00:00,2020-10-27T20:00:00-04:00,Lara,Mineros,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 5,xINcQSQf,2020-10-28T21:00:00+00:00,2020-10-28T17:00:00-04:00,Puerto Cabello,Carabobo,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 5,0WCJC9de,2020-10-29T00:00:00+00:00,2020-10-28T20:00:00-04:00,Yaracuyanos,Atl. Venezuela,4,2,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 2,8xhwnMAS,2020-10-29T21:00:00+00:00,2020-10-29T17:00:00-04:00,Zamora,Monagas,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 2,0hQmy5dA,2020-10-30T00:00:00+00:00,2020-10-29T20:00:00-04:00,Dep. Táchira,Metropolitanos,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 2,YLjg9k8g,2020-10-30T21:00:00+00:00,2020-10-30T17:00:00-04:00,Gran Valencia,Caracas,0,4,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 2,zq8Vc7nQ,2020-10-31T00:00:00+00:00,2020-10-30T20:00:00-04:00,Aragua,Portuguesa,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 6,0CpY0Ccq,2020-10-31T21:00:00+00:00,2020-10-31T17:00:00-04:00,Mineros,Estudiantes M.,2,3,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 6,re2OBTB1,2020-11-01T01:00:00+00:00,2020-10-31T21:00:00-04:00,Carabobo,Yaracuyanos,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 6,nXQU51qB,2020-11-01T21:00:00+00:00,2020-11-01T17:00:00-04:00,La Guaira,Puerto Cabello,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 3,vqPizPBG,2020-11-01T21:00:00+00:00,2020-11-01T17:00:00-04:00,Zamora,Dep. Táchira,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 6,zToIwq0I,2020-11-02T00:00:00+00:00,2020-11-01T20:00:00-04:00,Atl. Venezuela,Trujillanos,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 3,Aov5stJq,2020-11-02T00:00:00+00:00,2020-11-01T20:00:00-04:00,Caracas,Monagas,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 3,tQpbgRfs,2020-11-02T21:00:00+00:00,2020-11-02T17:00:00-04:00,Aragua,Gran Valencia,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 3,dIUvfJ2k,2020-11-03T00:00:00+00:00,2020-11-02T20:00:00-04:00,Metropolitanos,Portuguesa,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 7,nXbRUmHm,2020-11-03T21:00:00+00:00,2020-11-03T17:00:00-04:00,Estudiantes M.,Lara,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 7,jcNqJBJR,2020-11-04T00:00:00+00:00,2020-11-03T20:00:00-04:00,Puerto Cabello,Mineros,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 7,G6VY4LbH,2020-11-04T21:00:00+00:00,2020-11-04T17:00:00-04:00,Yaracuyanos,La Guaira,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 7,EJpMx3FO,2020-11-05T00:00:00+00:00,2020-11-04T20:00:00-04:00,Trujillanos,Carabobo,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 4,KGq2hoAm,2020-11-05T21:00:00+00:00,2020-11-05T17:00:00-04:00,Monagas,Aragua,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 4,vsKqgwIe,2020-11-06T00:00:00+00:00,2020-11-05T20:00:00-04:00,Portuguesa,Zamora,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 4,MJ4D8IHr,2020-11-06T21:00:00+00:00,2020-11-06T17:00:00-04:00,Gran Valencia,Metropolitanos,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 4,YJweZrRM,2020-11-07T00:45:00+00:00,2020-11-06T20:45:00-04:00,Dep. Táchira,Caracas,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 8,IoMaplIQ,2020-11-07T21:00:00+00:00,2020-11-07T17:00:00-04:00,Estudiantes M.,Atl. Venezuela,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 8,fcUx4uEN,2020-11-08T01:00:00+00:00,2020-11-07T21:00:00-04:00,Mineros,La Guaira,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 8,QNcVT7Wg,2020-11-08T21:00:00+00:00,2020-11-08T17:00:00-04:00,Lara,Carabobo,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 5,vLr9t0Yk,2020-11-08T21:00:00+00:00,2020-11-08T17:00:00-04:00,Monagas,Portuguesa,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 8,SMY31nhP,2020-11-09T00:00:00+00:00,2020-11-08T20:00:00-04:00,Puerto Cabello,Trujillanos,1,3,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 5,nPfc89Na,2020-11-09T00:00:00+00:00,2020-11-08T20:00:00-04:00,Zamora,Gran Valencia,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 5,ljl6i5Pg,2020-11-09T21:05:00+00:00,2020-11-09T17:05:00-04:00,Aragua,Dep. Táchira,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 5,veaI7xXl,2020-11-10T00:00:00+00:00,2020-11-09T20:00:00-04:00,Caracas,Metropolitanos,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 9,xMJs3aTT,2020-11-10T21:00:00+00:00,2020-11-10T17:00:00-04:00,Atl. Venezuela,La Guaira,2,3,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 9,4Upcr7om,2020-11-11T00:00:00+00:00,2020-11-10T20:00:00-04:00,Yaracuyanos,Lara,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 9,4rQVd60t,2020-11-11T21:00:00+00:00,2020-11-11T17:00:00-04:00,Trujillanos,Mineros,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 9,G8M1Pnt1,2020-11-12T00:00:00+00:00,2020-11-11T20:00:00-04:00,Puerto Cabello,Estudiantes M.,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 6,StmAjPv0,2020-11-12T21:00:00+00:00,2020-11-12T17:00:00-04:00,Caracas,Aragua,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 6,IobM6dne,2020-11-13T00:00:00+00:00,2020-11-12T20:00:00-04:00,Metropolitanos,Zamora,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 6,CAxaY2tT,2020-11-13T19:30:00+00:00,2020-11-13T15:30:00-04:00,Portuguesa,Dep. Táchira,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 6,IBsDuKmd,2020-11-13T21:30:00+00:00,2020-11-13T17:30:00-04:00,Gran Valencia,Monagas,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 10,Mo1SAmR7,2020-11-14T21:00:00+00:00,2020-11-14T17:00:00-04:00,Yaracuyanos,Estudiantes M.,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 10,v3qx0WCk,2020-11-15T01:00:00+00:00,2020-11-14T21:00:00-04:00,Atl. Venezuela,Mineros,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 10,6ZESSRo0,2020-11-15T19:00:00+00:00,2020-11-15T15:00:00-04:00,Trujillanos,Lara,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 7,A5xFkqf6,2020-11-15T21:00:00+00:00,2020-11-15T17:00:00-04:00,Zamora,Aragua,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 10,UoHuypuD,2020-11-15T23:00:00+00:00,2020-11-15T19:00:00-04:00,Carabobo,La Guaira,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 7,QZw9auuS,2020-11-16T01:00:00+00:00,2020-11-15T21:00:00-04:00,Monagas,Metropolitanos,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 7,IXImhcX1,2020-11-16T21:00:00+00:00,2020-11-16T17:00:00-04:00,Portuguesa,Caracas,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 7,IiFRTMlp,2020-11-17T00:00:00+00:00,2020-11-16T20:00:00-04:00,Dep. Táchira,Gran Valencia,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 11,lhkAZW38,2020-11-17T18:30:00+00:00,2020-11-17T14:30:00-04:00,Puerto Cabello,Yaracuyanos,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 11,tf43ktaU,2020-11-18T00:00:00+00:00,2020-11-17T20:00:00-04:00,Estudiantes M.,Trujillanos,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 11,pQDWRo16,2020-11-18T21:00:00+00:00,2020-11-18T17:00:00-04:00,Lara,Atl. Venezuela,4,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 11,8xltajSe,2020-11-19T00:00:00+00:00,2020-11-18T20:00:00-04:00,Mineros,Carabobo,4,2,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 8,MutJl39C,2020-11-19T21:00:00+00:00,2020-11-19T17:00:00-04:00,Aragua,Metropolitanos,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 8,WfJVSt4j,2020-11-20T00:00:00+00:00,2020-11-19T20:00:00-04:00,Dep. Táchira,Monagas,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 8,tnf17Tx6,2020-11-20T21:00:00+00:00,2020-11-20T17:00:00-04:00,Zamora,Caracas,1,3,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 8,6mCVGtA2,2020-11-21T00:00:00+00:00,2020-11-20T20:00:00-04:00,Gran Valencia,Portuguesa,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 12,vmDzR5GC,2020-11-21T21:00:00+00:00,2020-11-21T17:00:00-04:00,Puerto Cabello,Lara,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 12,n7FzdQFn,2020-11-22T01:00:00+00:00,2020-11-21T21:00:00-04:00,Trujillanos,La Guaira,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 12,Mu4RbmXJ,2020-11-22T19:00:00+00:00,2020-11-22T15:00:00-04:00,Atl. Venezuela,Carabobo,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 9,pb7DiQti,2020-11-22T21:00:00+00:00,2020-11-22T17:00:00-04:00,Metropolitanos,Dep. Táchira,0,3,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 12,nTnpbAs2,2020-11-22T23:00:00+00:00,2020-11-22T19:00:00-04:00,Yaracuyanos,Mineros,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 9,KGLe43Qd,2020-11-23T01:00:00+00:00,2020-11-22T21:00:00-04:00,Monagas,Zamora,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 9,C62pBBws,2020-11-23T21:00:00+00:00,2020-11-23T17:00:00-04:00,Caracas,Gran Valencia,6,2,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 9,G2uNmNOI,2020-11-24T00:00:00+00:00,2020-11-23T20:00:00-04:00,Portuguesa,Aragua,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 13,hjHvQPVI,2020-11-24T21:00:00+00:00,2020-11-24T17:00:00-04:00,Lara,La Guaira,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 13,AVL5O6e7,2020-11-25T00:00:00+00:00,2020-11-24T20:00:00-04:00,Puerto Cabello,Atl. Venezuela,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 13,Kf8Ru8Qs,2020-11-25T21:00:00+00:00,2020-11-25T17:00:00-04:00,Estudiantes M.,Carabobo,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 13,QcEvepVh,2020-11-26T00:00:00+00:00,2020-11-25T20:00:00-04:00,Yaracuyanos,Trujillanos,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 10,Ol6Hjpdc,2020-11-26T21:00:00+00:00,2020-11-26T17:00:00-04:00,Dep. Táchira,Zamora,0,3,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 10,YJPa3Nu3,2020-11-27T00:00:00+00:00,2020-11-26T20:00:00-04:00,Monagas,Caracas,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 10,pvBZF0P8,2020-11-27T21:00:00+00:00,2020-11-27T17:00:00-04:00,Portuguesa,Metropolitanos,0,3,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 10,hS2jWfgo,2020-11-28T00:00:00+00:00,2020-11-27T20:00:00-04:00,Gran Valencia,Aragua,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 14,SrlEYjJE,2020-11-28T21:00:00+00:00,2020-11-28T17:00:00-04:00,Atl. Venezuela,Yaracuyanos,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 14,2JcWvSul,2020-11-29T01:00:00+00:00,2020-11-28T21:00:00-04:00,La Guaira,Estudiantes M.,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 14,lCHeoU2K,2020-11-29T19:00:00+00:00,2020-11-29T15:00:00-04:00,Carabobo,Puerto Cabello,0,3,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 11,tQ0Mk4B3,2020-11-29T21:00:00+00:00,2020-11-29T17:00:00-04:00,Caracas,Dep. Táchira,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 14,feeNl98J,2020-11-29T23:00:00+00:00,2020-11-29T19:00:00-04:00,Mineros,Lara,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 11,QmJsEvfL,2020-11-30T01:00:00+00:00,2020-11-29T21:00:00-04:00,Zamora,Portuguesa,4,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 11,WCYWvmco,2020-11-30T21:00:00+00:00,2020-11-30T17:00:00-04:00,Aragua,Monagas,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 11,C8cQ5G11,2020-12-01T00:00:00+00:00,2020-11-30T20:00:00-04:00,Metropolitanos,Gran Valencia,4,2,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 15,YNDrf4pa,2020-12-01T21:00:00+00:00,2020-12-01T17:00:00-04:00,Trujillanos,Atl. Venezuela,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 15,A7wJXAYK,2020-12-02T00:00:00+00:00,2020-12-01T20:00:00-04:00,Yaracuyanos,Carabobo,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 15,8Gv9NQAD,2020-12-02T21:00:00+00:00,2020-12-02T17:00:00-04:00,Puerto Cabello,La Guaira,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 15,lYQSMgK2,2020-12-03T00:00:00+00:00,2020-12-02T20:00:00-04:00,Estudiantes M.,Mineros,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 12,jc1lAVhm,2020-12-03T21:00:00+00:00,2020-12-03T17:00:00-04:00,Gran Valencia,Zamora,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 12,StP32se9,2020-12-04T00:00:00+00:00,2020-12-03T20:00:00-04:00,Portuguesa,Monagas,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 12,A3Xzv7Ci,2020-12-04T21:00:00+00:00,2020-12-04T17:00:00-04:00,Dep. Táchira,Aragua,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 12,QB1U4zH7,2020-12-05T00:00:00+00:00,2020-12-04T20:00:00-04:00,Metropolitanos,Caracas,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 16,CECngOa5,2020-12-05T19:00:00+00:00,2020-12-05T15:00:00-04:00,Carabobo,Trujillanos,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 16,08UWLDZ8,2020-12-05T21:00:00+00:00,2020-12-05T17:00:00-04:00,Mineros,Puerto Cabello,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 16,OAsNWUmR,2020-12-05T22:00:00+00:00,2020-12-05T18:00:00-04:00,La Guaira,Yaracuyanos,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 16,ngz2sR0g,2020-12-06T00:00:00+00:00,2020-12-05T20:00:00-04:00,Lara,Estudiantes M.,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 13,SGuDTJg8,2020-12-08T00:00:00+00:00,2020-12-07T20:00:00-04:00,Zamora,Metropolitanos,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 13,4QWvwRRc,2020-12-08T13:00:00+00:00,2020-12-08T09:00:00-04:00,Aragua,Caracas,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 13,6XN711AF,2020-12-08T21:00:00+00:00,2020-12-08T17:00:00-04:00,Monagas,Gran Valencia,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 13,KGaQlOQ9,2020-12-09T00:00:00+00:00,2020-12-08T20:00:00-04:00,Dep. Táchira,Portuguesa,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 17,fw2ihrFB,2020-12-09T19:00:00+00:00,2020-12-09T15:00:00-04:00,Trujillanos,Puerto Cabello,0,4,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 17,GM1zvnef,2020-12-09T21:00:00+00:00,2020-12-09T17:00:00-04:00,Atl. Venezuela,Estudiantes M.,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 17,YofRmTNP,2020-12-09T22:00:00+00:00,2020-12-09T18:00:00-04:00,Carabobo,Lara,0,3,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 17,fVTzLXlF,2020-12-10T00:00:00+00:00,2020-12-09T20:00:00-04:00,La Guaira,Mineros,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 14,ITzqxos4,2020-12-10T21:00:00+00:00,2020-12-10T17:00:00-04:00,Aragua,Zamora,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 14,nqu50LPL,2020-12-11T00:00:00+00:00,2020-12-10T20:00:00-04:00,Metropolitanos,Monagas,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 14,S20vFKvF,2020-12-11T21:00:00+00:00,2020-12-11T17:00:00-04:00,Caracas,Portuguesa,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 14,EwaUmrtG,2020-12-12T00:00:00+00:00,2020-12-11T20:00:00-04:00,Gran Valencia,Dep. Táchira,0,3,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 18,8xGqz4fJ,2020-12-12T21:00:00+00:00,2020-12-12T17:00:00-04:00,La Guaira,Atl. Venezuela,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 18,QwngqmWt,2020-12-12T21:00:00+00:00,2020-12-12T17:00:00-04:00,Lara,Yaracuyanos,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 18,ALIinAmE,2020-12-13T01:00:00+00:00,2020-12-12T21:00:00-04:00,Estudiantes M.,Puerto Cabello,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Fase Grupos,Jornada 18,8t6ei2UH,2020-12-13T01:00:00+00:00,2020-12-12T21:00:00-04:00,Mineros,Trujillanos,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Definición Puestos,3ª posición,IZJDNopC,2020-12-15T20:30:00+00:00,2020-12-15T16:30:00-04:00,Lara,Caracas,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/
+2020,Liga FUTVE,Definición Puestos,Final,0b9IM5aI,2020-12-15T23:00:00+00:00,2020-12-15T19:00:00-04:00,La Guaira,Dep. Táchira,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2020/resultados/

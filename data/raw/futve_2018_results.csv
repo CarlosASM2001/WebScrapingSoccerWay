@@ -1,0 +1,337 @@
+season,competition,phase,round,match_id,match_date_utc,match_date_local,home_team,away_team,home_score,away_score,result,source_url
+2018,Liga FUTVE,Apertura,Jornada 1,hIP6s6f1,2018-01-27T19:00:00+00:00,2018-01-27T15:00:00-04:00,Lara,Atl. Venezuela,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 1,OfqQn1Wt,2018-01-27T19:30:00+00:00,2018-01-27T15:30:00-04:00,Dep. Anzoátegui,Mineros,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 1,OrL2rnue,2018-01-27T23:00:00+00:00,2018-01-27T19:00:00-04:00,Monagas,Estudiantes Caracas,4,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 1,hzysqJV5,2018-01-28T15:00:00+00:00,2018-01-28T11:00:00-04:00,Metropolitanos,Puerto Cabello,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 1,W8OAtQ97,2018-01-28T19:00:00+00:00,2018-01-28T15:00:00-04:00,La Guaira,Zamora,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 1,YD2g59n8,2018-01-28T21:00:00+00:00,2018-01-28T17:00:00-04:00,Trujillanos,Caracas,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 1,WbLd4T1E,2018-01-28T23:00:00+00:00,2018-01-28T19:00:00-04:00,Portuguesa,Aragua,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 1,KMxZpu1g,2018-01-29T23:00:00+00:00,2018-01-29T19:00:00-04:00,Dep. Táchira,Zulia,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 2,KbEXkoSM,2018-02-02T23:00:00+00:00,2018-02-02T19:00:00-04:00,Mineros,Metropolitanos,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 2,jJQKhmr4,2018-02-03T23:00:00+00:00,2018-02-03T19:00:00-04:00,Zamora,Lara,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 2,IZg8qq5j,2018-02-04T19:30:00+00:00,2018-02-04T15:30:00-04:00,Caracas,Estudiantes M.,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 2,bkDyk5sT,2018-02-04T19:30:00+00:00,2018-02-04T15:30:00-04:00,Puerto Cabello,Portuguesa,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 2,4Wk4pPkp,2018-02-04T21:00:00+00:00,2018-02-04T17:00:00-04:00,Aragua,Trujillanos,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 2,YsGPi7cA,2018-02-04T21:00:00+00:00,2018-02-04T17:00:00-04:00,Atl. Venezuela,Monagas,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 2,xGMGgTSc,2018-02-04T23:00:00+00:00,2018-02-04T19:00:00-04:00,Zulia,La Guaira,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 3,tSsF2OBS,2018-02-09T21:45:00+00:00,2018-02-09T17:45:00-04:00,Portuguesa,Mineros,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 3,WUHjW8lG,2018-02-09T23:00:00+00:00,2018-02-09T19:00:00-04:00,Monagas,Zamora,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 3,6ez35QR9,2018-02-10T21:00:00+00:00,2018-02-10T17:00:00-04:00,Estudiantes Caracas,Caracas,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 3,ryUtbrKq,2018-02-11T15:00:00+00:00,2018-02-11T11:00:00-04:00,Metropolitanos,Dep. Anzoátegui,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 3,0IZ64psG,2018-02-11T20:00:00+00:00,2018-02-11T16:00:00-04:00,Estudiantes M.,Aragua,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 3,ATtf7ncc,2018-02-11T20:00:00+00:00,2018-02-11T16:00:00-04:00,Lara,Zulia,3,3,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 3,Wxrj8Ssi,2018-02-11T23:00:00+00:00,2018-02-11T19:00:00-04:00,Carabobo,Atl. Venezuela,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 3,b3hA34dM,2018-02-12T21:00:00+00:00,2018-02-12T17:00:00-04:00,Trujillanos,Puerto Cabello,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 4,G4GCB1lq,2018-02-16T21:00:00+00:00,2018-02-16T17:00:00-04:00,Aragua,Caracas,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 4,CAYpc2Zk,2018-02-16T23:00:00+00:00,2018-02-16T19:00:00-04:00,Dep. Táchira,Lara,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 4,vNDqI3BF,2018-02-17T19:30:00+00:00,2018-02-17T15:30:00-04:00,Dep. Anzoátegui,Portuguesa,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 4,j1XldMld,2018-02-17T20:00:00+00:00,2018-02-17T16:00:00-04:00,Zulia,Monagas,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 4,bPTpGstS,2018-02-17T23:00:00+00:00,2018-02-17T19:00:00-04:00,Puerto Cabello,Estudiantes M.,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 4,0WEuJqd9,2018-02-18T19:45:00+00:00,2018-02-18T15:45:00-04:00,La Guaira,Metropolitanos,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 4,69FyKPt3,2018-02-18T21:00:00+00:00,2018-02-18T17:00:00-04:00,Atl. Venezuela,Estudiantes Caracas,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 4,h6BXK5Rd,2018-02-18T23:00:00+00:00,2018-02-18T19:00:00-04:00,Zamora,Carabobo,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 5,CW9L9uJe,2018-02-22T23:00:00+00:00,2018-02-22T19:00:00-04:00,Carabobo,Zulia,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 5,pYLfVS3M,2018-02-23T23:00:00+00:00,2018-02-23T19:00:00-04:00,Monagas,Dep. Táchira,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 5,jN8P8aY1,2018-02-24T15:00:00+00:00,2018-02-24T11:00:00-04:00,Atl. Venezuela,Aragua,0,4,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 5,U7KGAL3k,2018-02-24T21:00:00+00:00,2018-02-24T17:00:00-04:00,Estudiantes Caracas,Zamora,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 5,A1IqEfAs,2018-02-24T23:00:00+00:00,2018-02-24T19:00:00-04:00,Portuguesa,Metropolitanos,1,3,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 5,0hjGVMuF,2018-02-25T20:00:00+00:00,2018-02-25T16:00:00-04:00,Trujillanos,Dep. Anzoátegui,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 5,IT0BW2Q8,2018-02-25T21:00:00+00:00,2018-02-25T17:00:00-04:00,Estudiantes M.,Mineros,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 5,4OHmDEPm,2018-02-25T23:00:00+00:00,2018-02-25T19:00:00-04:00,Lara,La Guaira,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 6,vsA0AC96,2018-02-27T23:00:00+00:00,2018-02-27T19:00:00-04:00,Dep. Táchira,Carabobo,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 6,rFGiCYvf,2018-02-27T23:00:00+00:00,2018-02-27T19:00:00-04:00,Zamora,Atl. Venezuela,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 6,n7D88jvJ,2018-02-28T19:30:00+00:00,2018-02-28T15:30:00-04:00,Dep. Anzoátegui,Estudiantes M.,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 6,S2jeWgWP,2018-02-28T20:00:00+00:00,2018-02-28T16:00:00-04:00,Zulia,Estudiantes Caracas,4,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 6,Y3949WOC,2018-02-28T23:00:00+00:00,2018-02-28T19:00:00-04:00,Metropolitanos,Trujillanos,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 6,lCiiXZGJ,2018-02-28T23:00:00+00:00,2018-02-28T19:00:00-04:00,Mineros,Caracas,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 6,0jBdBhf0,2018-03-01T23:00:00+00:00,2018-03-01T19:00:00-04:00,Puerto Cabello,Aragua,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 7,6BtVPi9g,2018-03-03T21:00:00+00:00,2018-03-03T17:00:00-04:00,Estudiantes Caracas,Dep. Táchira,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 7,pdhMRDvs,2018-03-03T23:00:00+00:00,2018-03-03T19:00:00-04:00,Carabobo,La Guaira,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 7,hSrsNkgC,2018-03-04T20:00:00+00:00,2018-03-04T16:00:00-04:00,Trujillanos,Portuguesa,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 7,EypwOVw6,2018-03-04T21:00:00+00:00,2018-03-04T17:00:00-04:00,Aragua,Mineros,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 7,OniQQXgm,2018-03-04T21:00:00+00:00,2018-03-04T17:00:00-04:00,Atl. Venezuela,Zulia,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 7,A3wnM98I,2018-03-04T23:00:00+00:00,2018-03-04T19:00:00-04:00,Estudiantes M.,Metropolitanos,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 7,KEpZOBOa,2018-03-06T23:00:00+00:00,2018-03-06T19:00:00-04:00,Monagas,Lara,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 8,lfxjLTNO,2018-03-09T23:00:00+00:00,2018-03-09T19:00:00-04:00,Lara,Carabobo,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 8,lfbLz9NB,2018-03-10T19:30:00+00:00,2018-03-10T15:30:00-04:00,Dep. Anzoátegui,Aragua,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 8,SvACxVha,2018-03-10T23:00:00+00:00,2018-03-10T19:00:00-04:00,Portuguesa,Estudiantes M.,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 8,6V8Gyk85,2018-03-11T15:00:00+00:00,2018-03-11T11:00:00-04:00,Metropolitanos,Caracas,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 8,2cQXqD0P,2018-03-11T19:45:00+00:00,2018-03-11T15:45:00-04:00,La Guaira,Estudiantes Caracas,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 8,b558wBwg,2018-03-11T20:00:00+00:00,2018-03-11T16:00:00-04:00,Trujillanos,Monagas,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 8,xjHauX8t,2018-03-11T21:00:00+00:00,2018-03-11T17:00:00-04:00,Dep. Táchira,Atl. Venezuela,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 8,KE64viOn,2018-03-11T23:00:00+00:00,2018-03-11T19:00:00-04:00,Zulia,Zamora,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 8,2c2PZSxI,2018-03-12T23:00:00+00:00,2018-03-12T19:00:00-04:00,Mineros,Puerto Cabello,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 7,xW0ZNpdd,2018-03-14T20:00:00+00:00,2018-03-14T16:00:00-04:00,Caracas,Dep. Anzoátegui,4,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 9,xChzhAhn,2018-03-16T23:00:00+00:00,2018-03-16T19:00:00-04:00,Carabobo,Monagas,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 9,S0omk8x5,2018-03-17T21:00:00+00:00,2018-03-17T17:00:00-04:00,Aragua,Metropolitanos,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 9,pxdrjlNb,2018-03-17T23:00:00+00:00,2018-03-17T19:00:00-04:00,Puerto Cabello,Dep. Anzoátegui,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 9,zB0XX67U,2018-03-18T19:30:00+00:00,2018-03-18T15:30:00-04:00,Atl. Venezuela,La Guaira,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 9,6ipilSiB,2018-03-18T19:30:00+00:00,2018-03-18T15:30:00-04:00,Caracas,Portuguesa,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 9,bLgWhjwt,2018-03-18T19:30:00+00:00,2018-03-18T15:30:00-04:00,Estudiantes Caracas,Lara,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 9,WYiviU7h,2018-03-18T21:00:00+00:00,2018-03-18T17:00:00-04:00,Mineros,Zulia,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 9,zRlemn7H,2018-03-18T23:00:00+00:00,2018-03-18T19:00:00-04:00,Estudiantes M.,Trujillanos,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 9,dK1TYnhO,2018-03-19T23:00:00+00:00,2018-03-19T19:00:00-04:00,Zamora,Dep. Táchira,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 2,x8InXlZ9,2018-03-21T19:30:00+00:00,2018-03-21T15:30:00-04:00,Estudiantes Caracas,Carabobo,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 10,vyuInUYd,2018-03-21T22:00:00+00:00,2018-03-21T18:00:00-04:00,Monagas,Estudiantes M.,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 2,CYETjRCG,2018-03-22T23:00:00+00:00,2018-03-22T19:00:00-04:00,Dep. Táchira,Dep. Anzoátegui,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 7,bu2VOQtj,2018-03-23T23:00:00+00:00,2018-03-23T19:00:00-04:00,Zamora,Puerto Cabello,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 4,KYUtHNQL,2018-03-24T23:00:00+00:00,2018-03-24T19:00:00-04:00,Mineros,Trujillanos,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 12,pYsQp839,2018-03-25T22:00:00+00:00,2018-03-25T18:00:00-04:00,Monagas,Aragua,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 1,2orUoLom,2018-03-25T23:00:00+00:00,2018-03-25T19:00:00-04:00,Carabobo,Estudiantes M.,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 6,U5cRP6Rq,2018-03-26T23:00:00+00:00,2018-03-26T19:00:00-04:00,Lara,Portuguesa,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 3,S4ya66C3,2018-03-27T19:30:00+00:00,2018-03-27T15:30:00-04:00,La Guaira,Dep. Táchira,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 5,vw27XrB2,2018-03-27T20:00:00+00:00,2018-03-27T16:00:00-04:00,Caracas,Puerto Cabello,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 6,SdBaUnJS,2018-03-30T19:45:00+00:00,2018-03-30T15:45:00-04:00,La Guaira,Monagas,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 10,SEQL37ib,2018-04-02T19:30:00+00:00,2018-04-02T15:30:00-04:00,Atl. Venezuela,Puerto Cabello,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 10,65PP2R64,2018-04-02T19:30:00+00:00,2018-04-02T15:30:00-04:00,Estudiantes Caracas,Aragua,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 10,WnXC5TMo,2018-04-02T23:00:00+00:00,2018-04-02T19:00:00-04:00,Zulia,Dep. Anzoátegui,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 10,dtw4oQyU,2018-04-03T19:45:00+00:00,2018-04-03T15:45:00-04:00,La Guaira,Portuguesa,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 10,EHman6MN,2018-04-03T23:00:00+00:00,2018-04-03T19:00:00-04:00,Lara,Trujillanos,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 10,IqqVtppo,2018-04-04T23:00:00+00:00,2018-04-04T19:00:00-04:00,Dep. Táchira,Metropolitanos,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 10,AwWG4mxh,2018-04-04T23:00:00+00:00,2018-04-04T19:00:00-04:00,Zamora,Mineros,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 10,0SOT1oMA,2018-04-05T23:00:00+00:00,2018-04-05T19:00:00-04:00,Carabobo,Caracas,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 11,MuId5KS2,2018-04-06T23:00:00+00:00,2018-04-06T19:00:00-04:00,Puerto Cabello,Estudiantes Caracas,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 11,tpuAsHzd,2018-04-07T19:30:00+00:00,2018-04-07T15:30:00-04:00,Dep. Anzoátegui,Zamora,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 11,jBrMoll3,2018-04-07T23:00:00+00:00,2018-04-07T19:00:00-04:00,Estudiantes M.,Lara,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 11,zqM04vr9,2018-04-08T19:30:00+00:00,2018-04-08T15:30:00-04:00,Aragua,Carabobo,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 11,YJu6rcLk,2018-04-08T19:30:00+00:00,2018-04-08T15:30:00-04:00,Metropolitanos,Zulia,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 11,EVSX05yH,2018-04-08T21:00:00+00:00,2018-04-08T17:00:00-04:00,Trujillanos,La Guaira,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 11,KzvEtyj2,2018-04-08T23:00:00+00:00,2018-04-08T19:00:00-04:00,Mineros,Atl. Venezuela,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 11,U5L43bcF,2018-04-09T19:30:00+00:00,2018-04-09T15:30:00-04:00,Caracas,Monagas,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 11,fTt2qw6q,2018-04-09T23:00:00+00:00,2018-04-09T19:00:00-04:00,Portuguesa,Dep. Táchira,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 12,OOtUqSIF,2018-04-12T23:00:00+00:00,2018-04-12T19:00:00-04:00,Lara,Caracas,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 12,8dK82ICL,2018-04-13T23:00:00+00:00,2018-04-13T19:00:00-04:00,Dep. Táchira,Trujillanos,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 12,Yw4mez5e,2018-04-14T19:45:00+00:00,2018-04-14T15:45:00-04:00,La Guaira,Estudiantes M.,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 12,QXED1xSR,2018-04-14T23:00:00+00:00,2018-04-14T19:00:00-04:00,Zulia,Portuguesa,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 12,M30qdGkk,2018-04-15T19:30:00+00:00,2018-04-15T15:30:00-04:00,Atl. Venezuela,Dep. Anzoátegui,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 12,G2ghffK1,2018-04-15T19:30:00+00:00,2018-04-15T15:30:00-04:00,Estudiantes Caracas,Mineros,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 12,St1ucdzq,2018-04-15T22:00:00+00:00,2018-04-15T18:00:00-04:00,Zamora,Metropolitanos,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 12,fghdgEZ7,2018-04-15T23:00:00+00:00,2018-04-15T19:00:00-04:00,Carabobo,Puerto Cabello,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 13,r9ovIcC8,2018-04-20T23:00:00+00:00,2018-04-20T19:00:00-04:00,Trujillanos,Zulia,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 13,t0yZrnYL,2018-04-21T19:30:00+00:00,2018-04-21T15:30:00-04:00,Aragua,Lara,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 13,KAfN7Dl1,2018-04-21T19:30:00+00:00,2018-04-21T15:30:00-04:00,Caracas,La Guaira,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 13,IRwiFedR,2018-04-21T19:30:00+00:00,2018-04-21T15:30:00-04:00,Dep. Anzoátegui,Estudiantes Caracas,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 13,4OZnGysL,2018-04-22T19:30:00+00:00,2018-04-22T15:30:00-04:00,Metropolitanos,Atl. Venezuela,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 13,z7QIAF4r,2018-04-22T20:00:00+00:00,2018-04-22T16:00:00-04:00,Estudiantes M.,Dep. Táchira,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 13,MaprHHRE,2018-04-22T23:00:00+00:00,2018-04-22T19:00:00-04:00,Portuguesa,Zamora,0,3,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 13,EcPM9ZJl,2018-04-23T23:00:00+00:00,2018-04-23T19:00:00-04:00,Mineros,Carabobo,3,3,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 14,AaNFD3xK,2018-04-27T23:00:00+00:00,2018-04-27T19:00:00-04:00,Carabobo,Dep. Anzoátegui,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 14,O63j71Fm,2018-04-28T23:00:00+00:00,2018-04-28T19:00:00-04:00,Lara,Puerto Cabello,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 14,SzbV5iJD,2018-04-29T19:30:00+00:00,2018-04-29T15:30:00-04:00,Atl. Venezuela,Portuguesa,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 14,W8OBEqND,2018-04-29T19:30:00+00:00,2018-04-29T15:30:00-04:00,Estudiantes Caracas,Metropolitanos,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 14,zs7f6LUg,2018-04-29T19:45:00+00:00,2018-04-29T15:45:00-04:00,La Guaira,Aragua,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 14,vZRJCNiQ,2018-04-29T20:00:00+00:00,2018-04-29T16:00:00-04:00,Zulia,Estudiantes M.,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 14,EXgR6X37,2018-04-29T23:00:00+00:00,2018-04-29T19:00:00-04:00,Zamora,Trujillanos,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 14,trEo8s0s,2018-04-30T22:00:00+00:00,2018-04-30T18:00:00-04:00,Monagas,Mineros,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 14,U36b5up0,2018-04-30T23:00:00+00:00,2018-04-30T19:00:00-04:00,Dep. Táchira,Caracas,0,3,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 15,G0STKKqm,2018-05-04T23:00:00+00:00,2018-05-04T19:00:00-04:00,Puerto Cabello,La Guaira,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 15,OQRXJvag,2018-05-05T19:30:00+00:00,2018-05-05T15:30:00-04:00,Aragua,Dep. Táchira,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 15,IPngRM6J,2018-05-05T19:30:00+00:00,2018-05-05T15:30:00-04:00,Dep. Anzoátegui,Monagas,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 15,WSjcQtMP,2018-05-05T20:00:00+00:00,2018-05-05T16:00:00-04:00,Estudiantes M.,Zamora,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 15,2HQyJbEa,2018-05-06T19:30:00+00:00,2018-05-06T15:30:00-04:00,Caracas,Zulia,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 15,4MbB2wUI,2018-05-06T19:30:00+00:00,2018-05-06T15:30:00-04:00,Metropolitanos,Carabobo,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 15,QVa73JEC,2018-05-06T20:00:00+00:00,2018-05-06T16:00:00-04:00,Portuguesa,Estudiantes Caracas,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 15,8f524aa6,2018-05-06T20:00:00+00:00,2018-05-06T16:00:00-04:00,Trujillanos,Atl. Venezuela,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 15,xATPL0Ut,2018-05-06T23:00:00+00:00,2018-05-06T19:00:00-04:00,Mineros,Lara,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 13,tKeJ8gZf,2018-05-09T23:00:00+00:00,2018-05-09T19:00:00-04:00,Puerto Cabello,Monagas,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 16,6mQ0ND5o,2018-05-12T20:00:00+00:00,2018-05-12T16:00:00-04:00,La Guaira,Mineros,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 16,h6JlGdbI,2018-05-12T21:00:00+00:00,2018-05-12T17:00:00-04:00,Lara,Dep. Anzoátegui,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 16,Kjzwr6mS,2018-05-12T22:00:00+00:00,2018-05-12T18:00:00-04:00,Monagas,Metropolitanos,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 16,UVtIbUSp,2018-05-13T19:30:00+00:00,2018-05-13T15:30:00-04:00,Atl. Venezuela,Estudiantes M.,4,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 16,bqKpHxqC,2018-05-13T19:30:00+00:00,2018-05-13T15:30:00-04:00,Carabobo,Portuguesa,4,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 16,pvP4MXKi,2018-05-13T19:30:00+00:00,2018-05-13T15:30:00-04:00,Dep. Táchira,Puerto Cabello,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 16,ptGtIIT5,2018-05-13T19:30:00+00:00,2018-05-13T15:30:00-04:00,Estudiantes Caracas,Trujillanos,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 16,v1O8Lizb,2018-05-13T19:30:00+00:00,2018-05-13T15:30:00-04:00,Zulia,Aragua,2,4,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 16,xnsCKBk4,2018-05-13T22:00:00+00:00,2018-05-13T18:00:00-04:00,Zamora,Caracas,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 17,I52oZA4c,2018-05-18T19:30:00+00:00,2018-05-18T15:30:00-04:00,Aragua,Zamora,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 17,bHJrYUJ3,2018-05-18T19:30:00+00:00,2018-05-18T15:30:00-04:00,Caracas,Atl. Venezuela,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 17,6RYSGTlT,2018-05-18T19:30:00+00:00,2018-05-18T15:30:00-04:00,Dep. Anzoátegui,La Guaira,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 17,C8BeCmcp,2018-05-18T19:30:00+00:00,2018-05-18T15:30:00-04:00,Estudiantes M.,Estudiantes Caracas,4,2,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 17,QBFaB7Cj,2018-05-18T19:30:00+00:00,2018-05-18T15:30:00-04:00,Mineros,Dep. Táchira,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 17,b1VKIkKG,2018-05-18T19:30:00+00:00,2018-05-18T15:30:00-04:00,Portuguesa,Monagas,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 17,vF3sziki,2018-05-18T19:30:00+00:00,2018-05-18T15:30:00-04:00,Puerto Cabello,Zulia,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 17,KAWGJV4A,2018-05-18T19:30:00+00:00,2018-05-18T15:30:00-04:00,Trujillanos,Carabobo,0,3,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura,Jornada 17,SzzPH9ZM,2018-05-19T19:30:00+00:00,2018-05-19T15:30:00-04:00,Metropolitanos,Lara,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura - Playoffs,Cuartos de final,SMnWWS68,2018-05-26T21:00:00+00:00,2018-05-26T17:00:00-04:00,Aragua,Carabobo,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura - Playoffs,Cuartos de final,6DozWnME,2018-05-26T23:30:00+00:00,2018-05-26T19:30:00-04:00,La Guaira,Mineros,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura - Playoffs,Cuartos de final,b993EKjs,2018-05-27T21:00:00+00:00,2018-05-27T17:00:00-04:00,Estudiantes M.,Zamora,1,3,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura - Playoffs,Cuartos de final,CCD7Dv6m,2018-05-27T23:30:00+00:00,2018-05-27T19:30:00-04:00,Lara,Caracas,1,3,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura - Playoffs,Cuartos de final,KS1508H8,2018-05-30T21:00:00+00:00,2018-05-30T17:00:00-04:00,Carabobo,Aragua,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura - Playoffs,Cuartos de final,2iiAaSWE,2018-05-30T23:30:00+00:00,2018-05-30T19:30:00-04:00,Mineros,La Guaira,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura - Playoffs,Cuartos de final,trjEbnnL,2018-05-31T21:00:00+00:00,2018-05-31T17:00:00-04:00,Zamora,Estudiantes M.,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura - Playoffs,Cuartos de final,l8kIc61R,2018-05-31T23:30:00+00:00,2018-05-31T19:30:00-04:00,Caracas,Lara,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura - Playoffs,Semifinales,rqt1laUr,2018-06-02T23:00:00+00:00,2018-06-02T19:00:00-04:00,Mineros,Carabobo,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura - Playoffs,Semifinales,YZDX5RaG,2018-06-03T23:00:00+00:00,2018-06-03T19:00:00-04:00,Caracas,Zamora,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura - Playoffs,Semifinales,Gdv9nwae,2018-06-06T23:00:00+00:00,2018-06-06T19:00:00-04:00,Carabobo,Mineros,2,3,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura - Playoffs,Semifinales,x6u5mJqk,2018-06-07T23:00:00+00:00,2018-06-07T19:00:00-04:00,Zamora,Caracas,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura - Playoffs,Final,AoxN1mbd,2018-06-10T23:00:00+00:00,2018-06-10T19:00:00-04:00,Mineros,Zamora,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Apertura - Playoffs,Final,OlQ4QWzc,2018-06-13T23:00:00+00:00,2018-06-13T19:00:00-04:00,Zamora,Mineros,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 1,4xg3joXq,2018-07-21T19:30:00+00:00,2018-07-21T15:30:00-04:00,Aragua,Portuguesa,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 1,C2dBlP1d,2018-07-22T19:30:00+00:00,2018-07-22T15:30:00-04:00,Atl. Venezuela,Lara,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 1,2T6yeROS,2018-07-22T19:30:00+00:00,2018-07-22T15:30:00-04:00,Estudiantes Caracas,Monagas,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 1,bah7k5nj,2018-07-22T20:00:00+00:00,2018-07-22T16:00:00-04:00,Estudiantes M.,Carabobo,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 1,MXw2Bn99,2018-07-22T21:00:00+00:00,2018-07-22T17:00:00-04:00,Mineros,Dep. Anzoátegui,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 1,E7zfD8vc,2018-07-22T21:00:00+00:00,2018-07-22T17:00:00-04:00,Puerto Cabello,Metropolitanos,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 1,hbZcCSg3,2018-07-22T22:00:00+00:00,2018-07-22T18:00:00-04:00,Zulia,Dep. Táchira,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 1,0Ox6A6OF,2018-07-22T23:30:00+00:00,2018-07-22T19:30:00-04:00,Zamora,La Guaira,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 2,rmSA9QwM,2018-07-28T19:30:00+00:00,2018-07-28T15:30:00-04:00,Dep. Anzoátegui,Dep. Táchira,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 2,djhpOPhF,2018-07-28T21:45:00+00:00,2018-07-28T17:45:00-04:00,Carabobo,Estudiantes Caracas,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 2,C2It441q,2018-07-28T22:00:00+00:00,2018-07-28T18:00:00-04:00,Monagas,Atl. Venezuela,5,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 2,fNVE8pgS,2018-07-28T22:00:00+00:00,2018-07-28T18:00:00-04:00,Portuguesa,Puerto Cabello,1,3,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 2,8UBk2rWe,2018-07-29T19:30:00+00:00,2018-07-29T15:30:00-04:00,Metropolitanos,Mineros,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 2,nLAg12o2,2018-07-29T19:45:00+00:00,2018-07-29T15:45:00-04:00,La Guaira,Zulia,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 2,jgHp3OGk,2018-07-29T20:00:00+00:00,2018-07-29T16:00:00-04:00,Estudiantes M.,Caracas,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 2,ER2uP5w9,2018-07-29T20:00:00+00:00,2018-07-29T16:00:00-04:00,Trujillanos,Aragua,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 2,0ObyQoO2,2018-07-29T22:30:00+00:00,2018-07-29T18:30:00-04:00,Lara,Zamora,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 3,zsilNq8L,2018-08-04T19:30:00+00:00,2018-08-04T15:30:00-04:00,Aragua,Estudiantes M.,1,3,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 3,r7jhM3NR,2018-08-04T21:00:00+00:00,2018-08-04T17:00:00-04:00,Dep. Anzoátegui,Metropolitanos,0,4,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 3,jDDJxP78,2018-08-04T23:00:00+00:00,2018-08-04T19:00:00-04:00,Dep. Táchira,La Guaira,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 3,trWSF10e,2018-08-05T19:30:00+00:00,2018-08-05T15:30:00-04:00,Atl. Venezuela,Carabobo,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 3,SvSOGsok,2018-08-05T19:30:00+00:00,2018-08-05T15:30:00-04:00,Caracas,Estudiantes Caracas,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 3,EeUzEuV7,2018-08-05T21:00:00+00:00,2018-08-05T17:00:00-04:00,Mineros,Portuguesa,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 3,pGxKHNVr,2018-08-05T22:00:00+00:00,2018-08-05T18:00:00-04:00,Puerto Cabello,Trujillanos,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 3,z5VWELF1,2018-08-05T22:00:00+00:00,2018-08-05T18:00:00-04:00,Zulia,Lara,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 3,U3CNyqNE,2018-08-05T23:30:00+00:00,2018-08-05T19:30:00-04:00,Zamora,Monagas,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 4,OQBRz3xL,2018-08-11T19:30:00+00:00,2018-08-11T15:30:00-04:00,Estudiantes Caracas,Atl. Venezuela,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 4,MBUUZMiR,2018-08-11T20:00:00+00:00,2018-08-11T16:00:00-04:00,Portuguesa,Dep. Anzoátegui,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 4,Ovi0k2iE,2018-08-11T21:00:00+00:00,2018-08-11T17:00:00-04:00,Carabobo,Zamora,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 4,6q61U0Fl,2018-08-11T22:00:00+00:00,2018-08-11T18:00:00-04:00,Monagas,Zulia,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 4,E999Svp1,2018-08-12T19:30:00+00:00,2018-08-12T15:30:00-04:00,Metropolitanos,La Guaira,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 4,zJA5TKUf,2018-08-12T20:00:00+00:00,2018-08-12T16:00:00-04:00,Caracas,Aragua,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 4,Sh7cVt0r,2018-08-12T20:00:00+00:00,2018-08-12T16:00:00-04:00,Estudiantes M.,Puerto Cabello,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 4,dYbERba7,2018-08-12T20:00:00+00:00,2018-08-12T16:00:00-04:00,Trujillanos,Mineros,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 4,Ay3IQIED,2018-08-12T21:00:00+00:00,2018-08-12T17:00:00-04:00,Lara,Dep. Táchira,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 5,tGVQWgym,2018-08-18T19:30:00+00:00,2018-08-18T15:30:00-04:00,Aragua,Atl. Venezuela,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 5,04ETXZLt,2018-08-18T21:00:00+00:00,2018-08-18T17:00:00-04:00,Dep. Anzoátegui,Trujillanos,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 5,AeNsTBzC,2018-08-19T14:30:00+00:00,2018-08-19T10:30:00-04:00,La Guaira,Lara,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 5,ETTYUX5a,2018-08-19T19:30:00+00:00,2018-08-19T15:30:00-04:00,Metropolitanos,Portuguesa,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 5,lnMoSVkI,2018-08-19T20:00:00+00:00,2018-08-19T16:00:00-04:00,Zulia,Carabobo,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 5,dCPgQ9KU,2018-08-19T21:00:00+00:00,2018-08-19T17:00:00-04:00,Dep. Táchira,Monagas,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 5,ILQkRk5O,2018-08-19T21:00:00+00:00,2018-08-19T17:00:00-04:00,Mineros,Estudiantes M.,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 5,SWXxUiL5,2018-08-19T22:00:00+00:00,2018-08-19T18:00:00-04:00,Puerto Cabello,Caracas,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 5,K6UUVDjg,2018-08-19T22:00:00+00:00,2018-08-19T18:00:00-04:00,Zamora,Estudiantes Caracas,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 6,QRZERJG4,2018-08-22T19:30:00+00:00,2018-08-22T15:30:00-04:00,Atl. Venezuela,Zamora,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 6,zws2ULWo,2018-08-22T19:30:00+00:00,2018-08-22T15:30:00-04:00,Estudiantes Caracas,Zulia,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 6,buYMPcoH,2018-08-22T20:00:00+00:00,2018-08-22T16:00:00-04:00,Carabobo,Dep. Táchira,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 6,8juASa1b,2018-08-22T20:00:00+00:00,2018-08-22T16:00:00-04:00,Caracas,Mineros,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 6,4IYIQwWA,2018-08-22T20:00:00+00:00,2018-08-22T16:00:00-04:00,Trujillanos,Metropolitanos,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 6,Uat6Tunh,2018-08-22T21:00:00+00:00,2018-08-22T17:00:00-04:00,Aragua,Puerto Cabello,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 6,f7RVNyGT,2018-08-22T21:00:00+00:00,2018-08-22T17:00:00-04:00,Portuguesa,Lara,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 6,CrxROH0N,2018-08-22T22:00:00+00:00,2018-08-22T18:00:00-04:00,Estudiantes M.,Dep. Anzoátegui,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 6,O2wbV1Hu,2018-08-22T22:00:00+00:00,2018-08-22T18:00:00-04:00,Monagas,La Guaira,2,3,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 7,dGDcJeOp,2018-08-25T21:00:00+00:00,2018-08-25T17:00:00-04:00,Dep. Anzoátegui,Caracas,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 7,Wn5mtJVc,2018-08-25T22:00:00+00:00,2018-08-25T18:00:00-04:00,Puerto Cabello,Zamora,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 7,pj9iuwo4,2018-08-26T14:30:00+00:00,2018-08-26T10:30:00-04:00,La Guaira,Carabobo,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 7,lOFrsaGi,2018-08-26T19:30:00+00:00,2018-08-26T15:30:00-04:00,Metropolitanos,Estudiantes M.,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 7,I37awHFG,2018-08-26T20:30:00+00:00,2018-08-26T16:30:00-04:00,Zulia,Atl. Venezuela,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 7,EV08yepT,2018-08-26T21:00:00+00:00,2018-08-26T17:00:00-04:00,Dep. Táchira,Estudiantes Caracas,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 7,zu24xyVM,2018-08-26T21:00:00+00:00,2018-08-26T17:00:00-04:00,Mineros,Aragua,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 7,vD8evc0A,2018-08-26T22:00:00+00:00,2018-08-26T18:00:00-04:00,Lara,Monagas,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 8,roivWY7j,2018-09-01T20:00:00+00:00,2018-09-01T16:00:00-04:00,Estudiantes Caracas,La Guaira,2,3,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 8,WAmzXEhp,2018-09-01T21:00:00+00:00,2018-09-01T17:00:00-04:00,Aragua,Dep. Anzoátegui,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 8,OtUQgx0c,2018-09-01T22:00:00+00:00,2018-09-01T18:00:00-04:00,Monagas,Trujillanos,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 8,EVMwizpG,2018-09-02T19:30:00+00:00,2018-09-02T15:30:00-04:00,Atl. Venezuela,Dep. Táchira,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 8,SYQsjfaM,2018-09-02T20:00:00+00:00,2018-09-02T16:00:00-04:00,Carabobo,Lara,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 8,W6XYiGU9,2018-09-02T20:00:00+00:00,2018-09-02T16:00:00-04:00,Caracas,Metropolitanos,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 8,pjVMfIpi,2018-09-02T20:00:00+00:00,2018-09-02T16:00:00-04:00,Estudiantes M.,Portuguesa,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 8,hGYUhdF3,2018-09-02T22:00:00+00:00,2018-09-02T18:00:00-04:00,Puerto Cabello,Mineros,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 8,MeQokEES,2018-09-02T22:00:00+00:00,2018-09-02T18:00:00-04:00,Zamora,Zulia,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 7,AXGvru1o,2018-09-05T21:45:00+00:00,2018-09-05T17:45:00-04:00,Portuguesa,Trujillanos,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 1,pWEdwWX6,2018-09-12T20:00:00+00:00,2018-09-12T16:00:00-04:00,Caracas,Trujillanos,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 9,O4CDpYMq,2018-09-15T21:00:00+00:00,2018-09-15T17:00:00-04:00,Dep. Anzoátegui,Puerto Cabello,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 9,4GTAqhxj,2018-09-15T21:45:00+00:00,2018-09-15T17:45:00-04:00,Portuguesa,Caracas,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 9,r7SErCid,2018-09-15T22:00:00+00:00,2018-09-15T18:00:00-04:00,Monagas,Carabobo,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 9,ADK06Fq3,2018-09-16T14:30:00+00:00,2018-09-16T10:30:00-04:00,La Guaira,Atl. Venezuela,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 9,xSzsnobl,2018-09-16T19:30:00+00:00,2018-09-16T15:30:00-04:00,Dep. Táchira,Zamora,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 9,dAGd7eUd,2018-09-16T19:30:00+00:00,2018-09-16T15:30:00-04:00,Metropolitanos,Aragua,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 9,hxA55Zb9,2018-09-16T20:00:00+00:00,2018-09-16T16:00:00-04:00,Trujillanos,Estudiantes M.,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 9,WS894gEF,2018-09-16T20:30:00+00:00,2018-09-16T16:30:00-04:00,Zulia,Mineros,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 9,byxwmRrr,2018-09-16T22:30:00+00:00,2018-09-16T18:30:00-04:00,Lara,Estudiantes Caracas,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 10,jkscr3cD,2018-09-19T19:30:00+00:00,2018-09-19T15:30:00-04:00,Metropolitanos,Dep. Táchira,0,3,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 10,S6Qu7nzE,2018-09-19T20:00:00+00:00,2018-09-19T16:00:00-04:00,Trujillanos,Lara,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 10,IyqkpPS0,2018-09-19T21:00:00+00:00,2018-09-19T17:00:00-04:00,Aragua,Estudiantes Caracas,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 10,Cbrgqqr7,2018-09-19T21:00:00+00:00,2018-09-19T17:00:00-04:00,Dep. Anzoátegui,Zulia,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 10,K45Ka4Sm,2018-09-19T21:45:00+00:00,2018-09-19T17:45:00-04:00,Portuguesa,La Guaira,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 10,xtGF0pDs,2018-09-19T22:00:00+00:00,2018-09-19T18:00:00-04:00,Estudiantes M.,Monagas,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 10,0KOm5Q4Q,2018-09-19T23:00:00+00:00,2018-09-19T19:00:00-04:00,Mineros,Zamora,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 10,6cPq66kK,2018-09-19T23:00:00+00:00,2018-09-19T19:00:00-04:00,Puerto Cabello,Atl. Venezuela,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 11,YXrRIqZP,2018-09-22T20:00:00+00:00,2018-09-22T16:00:00-04:00,Carabobo,Aragua,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 11,SzhydMRC,2018-09-23T15:00:00+00:00,2018-09-23T11:00:00-04:00,La Guaira,Trujillanos,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 11,pC2Wd2C6,2018-09-23T19:30:00+00:00,2018-09-23T15:30:00-04:00,Atl. Venezuela,Mineros,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 11,hIPcDNdm,2018-09-23T19:30:00+00:00,2018-09-23T15:30:00-04:00,Dep. Táchira,Portuguesa,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 11,6L3Scrc0,2018-09-23T20:00:00+00:00,2018-09-23T16:00:00-04:00,Estudiantes Caracas,Puerto Cabello,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 11,fspNJPJJ,2018-09-23T20:00:00+00:00,2018-09-23T16:00:00-04:00,Zulia,Metropolitanos,5,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 11,be4ObOsf,2018-09-23T22:00:00+00:00,2018-09-23T18:00:00-04:00,Monagas,Caracas,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 11,tvduetsJ,2018-09-23T23:00:00+00:00,2018-09-23T19:00:00-04:00,Lara,Estudiantes M.,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 11,ERQgE3ss,2018-09-23T23:00:00+00:00,2018-09-23T19:00:00-04:00,Zamora,Dep. Anzoátegui,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 12,Uab5W23P,2018-09-26T20:00:00+00:00,2018-09-26T16:00:00-04:00,Metropolitanos,Zamora,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 12,6LkXRMBt,2018-09-26T20:00:00+00:00,2018-09-26T16:00:00-04:00,Trujillanos,Dep. Táchira,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 12,nuP1CsCg,2018-09-26T21:00:00+00:00,2018-09-26T17:00:00-04:00,Aragua,Monagas,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 12,bFS5B1Ra,2018-09-26T21:00:00+00:00,2018-09-26T17:00:00-04:00,Dep. Anzoátegui,Atl. Venezuela,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 12,tvIAALt6,2018-09-26T21:45:00+00:00,2018-09-26T17:45:00-04:00,Portuguesa,Zulia,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 12,KUGE9udC,2018-09-26T22:00:00+00:00,2018-09-26T18:00:00-04:00,Estudiantes M.,La Guaira,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 12,0rkyRtRn,2018-09-26T23:00:00+00:00,2018-09-26T19:00:00-04:00,Mineros,Estudiantes Caracas,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 12,SfKM7JQO,2018-09-26T23:00:00+00:00,2018-09-26T19:00:00-04:00,Puerto Cabello,Carabobo,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 12,l4LI8aBI,2018-09-27T22:00:00+00:00,2018-09-27T18:00:00-04:00,Caracas,Lara,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 13,ERAdKdAU,2018-09-29T21:00:00+00:00,2018-09-29T17:00:00-04:00,Carabobo,Mineros,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 13,4jj6v0en,2018-09-29T23:00:00+00:00,2018-09-29T19:00:00-04:00,Zamora,Portuguesa,4,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 13,vZmuQ0tg,2018-09-30T12:30:00+00:00,2018-09-30T08:30:00-04:00,Estudiantes Caracas,Dep. Anzoátegui,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 13,pnJuOvB5,2018-09-30T19:30:00+00:00,2018-09-30T15:30:00-04:00,Atl. Venezuela,Metropolitanos,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 13,zyChLxeO,2018-09-30T20:00:00+00:00,2018-09-30T16:00:00-04:00,Zulia,Trujillanos,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 13,hCMmMIuI,2018-09-30T21:00:00+00:00,2018-09-30T17:00:00-04:00,Lara,Aragua,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 13,6eKyPKea,2018-09-30T22:00:00+00:00,2018-09-30T18:00:00-04:00,Monagas,Puerto Cabello,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 13,Qai2uttt,2018-09-30T23:00:00+00:00,2018-09-30T19:00:00-04:00,Dep. Táchira,Estudiantes M.,2,3,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 14,KQbaHTgj,2018-10-06T20:00:00+00:00,2018-10-06T16:00:00-04:00,Metropolitanos,Estudiantes Caracas,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 14,bkqFxvQb,2018-10-06T21:00:00+00:00,2018-10-06T17:00:00-04:00,Dep. Anzoátegui,Carabobo,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 14,Q3aeI9vp,2018-10-06T21:00:00+00:00,2018-10-06T17:00:00-04:00,Puerto Cabello,Lara,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 14,hCrJybu5,2018-10-06T21:45:00+00:00,2018-10-06T17:45:00-04:00,Portuguesa,Atl. Venezuela,1,3,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 14,nFuBwKAh,2018-10-07T19:30:00+00:00,2018-10-07T15:30:00-04:00,Aragua,La Guaira,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 14,W2sNzIfB,2018-10-07T20:00:00+00:00,2018-10-07T16:00:00-04:00,Estudiantes M.,Zulia,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 14,YT23Gm9d,2018-10-07T20:00:00+00:00,2018-10-07T16:00:00-04:00,Trujillanos,Zamora,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 14,zZtnuXoc,2018-10-07T21:00:00+00:00,2018-10-07T17:00:00-04:00,Mineros,Monagas,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 14,lvxSZyAH,2018-10-08T21:00:00+00:00,2018-10-08T17:00:00-04:00,Caracas,Dep. Táchira,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 10,KjQoo5Df,2018-10-11T21:00:00+00:00,2018-10-11T17:00:00-04:00,Caracas,Carabobo,0,3,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 13,v9IqNbQB,2018-10-14T15:00:00+00:00,2018-10-14T11:00:00-04:00,La Guaira,Caracas,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 15,r5T2ykoM,2018-10-17T15:00:00+00:00,2018-10-17T11:00:00-04:00,La Guaira,Puerto Cabello,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 15,EPujvi13,2018-10-17T19:30:00+00:00,2018-10-17T15:30:00-04:00,Estudiantes Caracas,Portuguesa,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 15,EmKYVS8q,2018-10-17T20:00:00+00:00,2018-10-17T16:00:00-04:00,Lara,Mineros,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 15,d8X6z90S,2018-10-17T20:00:00+00:00,2018-10-17T16:00:00-04:00,Zulia,Caracas,2,3,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 15,hvJxVnOk,2018-10-17T21:00:00+00:00,2018-10-17T17:00:00-04:00,Dep. Táchira,Aragua,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 15,MkufwBG9,2018-10-17T22:00:00+00:00,2018-10-17T18:00:00-04:00,Monagas,Dep. Anzoátegui,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 15,AFDsU6wd,2018-10-17T23:00:00+00:00,2018-10-17T19:00:00-04:00,Carabobo,Metropolitanos,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 15,0tvbxVVF,2018-10-18T14:00:00+00:00,2018-10-18T10:00:00-04:00,Atl. Venezuela,Trujillanos,3,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 15,l6CoTQh2,2018-10-18T22:00:00+00:00,2018-10-18T18:00:00-04:00,Zamora,Estudiantes M.,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 16,0fJWjUp9,2018-10-21T20:00:00+00:00,2018-10-21T16:00:00-04:00,Aragua,Zulia,0,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 16,290TiAV2,2018-10-21T20:00:00+00:00,2018-10-21T16:00:00-04:00,Caracas,Zamora,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 16,hhbBqnwq,2018-10-21T20:00:00+00:00,2018-10-21T16:00:00-04:00,Dep. Anzoátegui,Lara,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 16,jqCqlSUR,2018-10-21T20:00:00+00:00,2018-10-21T16:00:00-04:00,Estudiantes M.,Atl. Venezuela,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 16,zHmGr6hk,2018-10-21T20:00:00+00:00,2018-10-21T16:00:00-04:00,Metropolitanos,Monagas,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 16,M97uk8FL,2018-10-21T20:00:00+00:00,2018-10-21T16:00:00-04:00,Mineros,La Guaira,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 16,lKiKsQ7e,2018-10-21T20:00:00+00:00,2018-10-21T16:00:00-04:00,Portuguesa,Carabobo,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 16,rJ8yjl0F,2018-10-21T20:00:00+00:00,2018-10-21T16:00:00-04:00,Puerto Cabello,Dep. Táchira,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 16,rsiOtpN1,2018-10-21T20:00:00+00:00,2018-10-21T16:00:00-04:00,Trujillanos,Estudiantes Caracas,4,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 17,MXkSu4x8,2018-10-28T20:00:00+00:00,2018-10-28T16:00:00-04:00,Atl. Venezuela,Caracas,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 17,27PivCI0,2018-10-28T20:00:00+00:00,2018-10-28T16:00:00-04:00,Carabobo,Trujillanos,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 17,d6t9nzBK,2018-10-28T20:00:00+00:00,2018-10-28T16:00:00-04:00,Dep. Táchira,Mineros,1,4,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 17,A9pDofQQ,2018-10-28T20:00:00+00:00,2018-10-28T16:00:00-04:00,Estudiantes Caracas,Estudiantes M.,3,2,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 17,GjNusEYs,2018-10-28T20:00:00+00:00,2018-10-28T16:00:00-04:00,La Guaira,Dep. Anzoátegui,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 17,fsMqtYml,2018-10-28T20:00:00+00:00,2018-10-28T16:00:00-04:00,Lara,Metropolitanos,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 17,OGQmuh3f,2018-10-28T20:00:00+00:00,2018-10-28T16:00:00-04:00,Monagas,Portuguesa,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 17,Ohr1ldt8,2018-10-28T20:00:00+00:00,2018-10-28T16:00:00-04:00,Zamora,Aragua,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura,Jornada 17,2qs5mGeE,2018-10-28T20:00:00+00:00,2018-10-28T16:00:00-04:00,Zulia,Puerto Cabello,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura - Playoffs,Cuartos de final,QBTP4kRg,2018-11-03T20:00:00+00:00,2018-11-03T16:00:00-04:00,Estudiantes M.,Dep. Táchira,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura - Playoffs,Cuartos de final,dxPL5VBm,2018-11-03T23:00:00+00:00,2018-11-03T19:00:00-04:00,Zamora,La Guaira,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura - Playoffs,Cuartos de final,IoQH6Bds,2018-11-04T20:00:00+00:00,2018-11-04T16:00:00-04:00,Trujillanos,Lara,2,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura - Playoffs,Cuartos de final,xlCmOwSE,2018-11-04T23:00:00+00:00,2018-11-04T19:00:00-04:00,Caracas,Monagas,2,2,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura - Playoffs,Cuartos de final,0ULx2mBC,2018-11-07T20:00:00+00:00,2018-11-07T16:00:00-04:00,La Guaira,Zamora,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura - Playoffs,Cuartos de final,fiLt17QI,2018-11-07T23:00:00+00:00,2018-11-07T19:00:00-04:00,Dep. Táchira,Estudiantes M.,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura - Playoffs,Cuartos de final,nRHY2Te6,2018-11-08T20:00:00+00:00,2018-11-08T16:00:00-04:00,Lara,Trujillanos,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura - Playoffs,Cuartos de final,42ST39t0,2018-11-08T23:00:00+00:00,2018-11-08T19:00:00-04:00,Monagas,Caracas,1,2,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura - Playoffs,Semifinales,pvssBswA,2018-11-11T20:00:00+00:00,2018-11-11T16:00:00-04:00,Caracas,Lara,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura - Playoffs,Semifinales,QkbvA1hG,2018-11-11T23:00:00+00:00,2018-11-11T19:00:00-04:00,Dep. Táchira,La Guaira,1,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura - Playoffs,Semifinales,4tcr9L7M,2018-11-15T20:00:00+00:00,2018-11-15T16:00:00-04:00,Lara,Caracas,2,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura - Playoffs,Semifinales,b3dn8uNS,2018-11-15T23:00:00+00:00,2018-11-15T19:00:00-04:00,La Guaira,Dep. Táchira,3,1,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura - Playoffs,Final,zPmOgM1G,2018-11-18T23:00:00+00:00,2018-11-18T19:00:00-04:00,Lara,La Guaira,0,0,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Clausura - Playoffs,Final,lSiShtHM,2018-11-25T20:00:00+00:00,2018-11-25T16:00:00-04:00,La Guaira,Lara,0,1,A,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Superfinal,Final,v3LF0AIs,2018-12-02T22:00:00+00:00,2018-12-02T18:00:00-04:00,Lara,Zamora,1,1,D,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
+2018,Liga FUTVE,Superfinal,Final,YPKJaUXm,2018-12-05T23:00:00+00:00,2018-12-05T19:00:00-04:00,Zamora,Lara,4,0,H,https://ve.soccerway.com/venezuela/liga-futve-2018/resultados/
