@@ -8,6 +8,7 @@ from urllib.parse import urlparse
 import requests
 
 RESULTS_PAGE_URL = "https://us.soccerway.com/venezuela/liga-futve-2005-2006/results/"
+SUMMARY_PAGE_URL = "https://us.soccerway.com/venezuela/liga-futve-2005-2006/"
 SEASON_LABEL = "2005-2006"
 COMPETITION_LABEL = "Liga FUTVE"
 OUTPUT_CSV_PATH = Path("data/raw/futve_2005_2006_results.csv")
@@ -23,6 +24,19 @@ def extract_window_environment(html: str) -> dict:
     if not match:
         raise ValueError("No se pudo encontrar window.environment en la página.")
     return json.loads(match.group(1))
+
+
+def resolve_environment(results_html: str) -> dict:
+    try:
+        return extract_window_environment(results_html)
+    except ValueError:
+        summary_response = requests.get(
+            SUMMARY_PAGE_URL,
+            timeout=30,
+            headers={"User-Agent": USER_AGENT},
+        )
+        summary_response.raise_for_status()
+        return extract_window_environment(summary_response.text)
 
 
 def extract_initial_results_feed(html: str) -> tuple[str, int, int]:
@@ -201,7 +215,7 @@ def main() -> None:
     RAW_HTML_PATH.parent.mkdir(parents=True, exist_ok=True)
     RAW_HTML_PATH.write_text(html, encoding="utf-8")
 
-    environment = extract_window_environment(html)
+    environment = resolve_environment(html)
     app_config = environment["config"]["app"]
     sport_id = int(environment["sport_id"])
     feed_sign = app_config["feed_sign"]
