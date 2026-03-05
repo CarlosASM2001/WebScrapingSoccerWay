@@ -1,130 +1,146 @@
-# Dataset Card - Liga FUTVE Results (2002-2003 a 2025)
+# Liga FUTVE Match Results Dataset (2002-2003 to 2025)
 
-## 1) Resumen
+Kaggle-ready dataset card for historical Venezuelan first-division match results.
 
-Este dataset contiene resultados historicos de la primera division de futbol de Venezuela (Liga FUTVE), extraidos desde Soccerway y guardados en formato CSV.
+---
 
-Objetivo principal: analisis de resultados y modelado de la variable objetivo `result` (H, D, A).
+## Suggested Kaggle metadata
 
-- H: victoria local
-- D: empate
-- A: victoria visitante
+- **Title:** Liga FUTVE Match Results (2002-2003 to 2025)
+- **Subtitle:** Historical match-level results for Venezuelan first division
+- **License (recommended):** CC BY 4.0
+- **Tags (recommended):** football, soccer, sports analytics, time series, classification
 
-## 2) Cobertura
+---
 
-- Competicion: Liga FUTVE (formatos historicos incluidos: Apertura, Clausura, fases y playoffs segun temporada)
-- Temporadas: 2002-2003 hasta 2025
-- Numero de archivos por temporada: 24 CSV (uno por temporada)
-- Rango temporal en UTC: `2002-08-04T20:30:00+00:00` a `2025-12-06T22:00:00+00:00`
+## Context
 
-## 3) Fuente de datos
+This dataset contains historical match results for Venezuela's top football division (Liga FUTVE), extracted from Soccerway and stored in CSV format.
 
-- Fuente primaria: Soccerway
-- Dominio observado en `source_url`: `ve.soccerway.com`
-- Naturaleza de recoleccion: web scraping de paginas de resultados
+The main modeling target is:
 
-## 4) Metodo de recoleccion
+- `result = H` (home win)
+- `result = D` (draw)
+- `result = A` (away win)
 
-La extraccion se realiza desde el bloque de script embebido en la pagina de resultados (`cjs.initialFeeds['results']`) y, cuando aplica, mediante paginacion de feeds internos para completar todos los eventos de una temporada.
+Typical use cases:
 
-Salida por temporada:
+- match outcome prediction (H/D/A)
+- trend analysis by season/phase
+- team performance analysis
+- feature engineering for time-based ML pipelines
 
-- `data/raw/futve_<season>_results.csv`
+---
 
-Salida consolidada (script incluido):
+## Coverage
 
-- `data/processed/futve_consolidated_results.csv`
+- **Competition:** Liga FUTVE (including historical formats such as Apertura, Clausura, phase groups, playoffs)
+- **Seasons covered:** 2002-2003 through 2025
+- **Season files:** 24 CSV files (one per season)
+- **Observed UTC range:** `2002-08-04T20:30:00+00:00` to `2025-12-06T22:00:00+00:00`
+- **Source domain in `source_url`:** `ve.soccerway.com`
 
-Script de consolidacion:
+---
 
-- `consolidate_csv.py`
+## Content
 
-## 5) Estructura de datos (schema)
+### Files
 
-Columnas del CSV:
+- Per-season files: `data/raw/futve_<season>_results.csv`
+- Consolidated output (generated): `data/processed/futve_consolidated_results.csv`
+- Consolidation script: `consolidate_csv.py`
 
-1. `season` (string): temporada (ejemplo: `2005-2006`, `2025`)
-2. `competition` (string): nombre de competicion (`Liga FUTVE`)
-3. `phase` (string): fase/torneo (ejemplo: `Apertura`, `Clausura`, `Primera fase`)
-4. `round` (string): jornada/ronda (ejemplo: `Jornada 1`, `Round 18`)
-5. `match_id` (string): identificador unico de partido en fuente
-6. `match_date_utc` (datetime ISO 8601): fecha/hora en UTC
-7. `match_date_local` (datetime ISO 8601): fecha/hora local
-8. `home_team` (string): equipo local
-9. `away_team` (string): equipo visitante
-10. `home_score` (integer): goles local
-11. `away_score` (integer): goles visitante
-12. `result` (string): `H`, `D`, `A`
-13. `source_url` (string): URL origen de temporada
+### Columns
 
-## 6) Estadisticas descriptivas (corte actual)
+1. `season` (string) - season label (e.g., `2005-2006`, `2025`)
+2. `competition` (string) - competition name (`Liga FUTVE`)
+3. `phase` (string) - tournament phase (e.g., `Apertura`, `Clausura`, `Primera fase`)
+4. `round` (string) - round/matchday (e.g., `Jornada 1`, `Round 18`)
+5. `match_id` (string) - source match identifier
+6. `match_date_utc` (ISO 8601 datetime) - kickoff datetime in UTC
+7. `match_date_local` (ISO 8601 datetime) - local kickoff datetime
+8. `home_team` (string) - home team
+9. `away_team` (string) - away team
+10. `home_score` (integer) - home goals
+11. `away_score` (integer) - away goals
+12. `result` (string) - categorical outcome (`H`, `D`, `A`)
+13. `source_url` (string) - source season URL
 
-Resumen global de todas las temporadas:
+---
 
-- Filas totales: **6550**
-- Temporadas: **24**
-- Equipos unicos (home/away combinados): **42**
-- Distribucion de `result`:
-  - H: **2979**
-  - D: **1935**
-  - A: **1636**
-- Valores faltantes en `round`: **614**
+## Data Collection Process
 
-Fases mas frecuentes:
+Data is collected via web scraping from Soccerway result pages.
 
-- Apertura: 2542
-- Clausura: 2504
-- VENEZUELA: Liga FUTVE: 450
-- Primera fase: 306
-- VENEZUELA: Primera Division: 190
+At extraction time, match records are parsed from embedded script feed blocks (e.g., `cjs.initialFeeds['results']`) and, when needed, completed through paginated internal feed requests to capture all events in a season.
 
-## 7) Calidad y validaciones realizadas
+---
 
-Validaciones observadas sobre el set historico:
+## Data Quality Summary (current cut)
 
-- Cabecera consistente en todos los CSV.
-- Sin duplicados por `match_id` en el conjunto total evaluado.
-- `result` presente en formato categorico esperado (`H`, `D`, `A`).
+Global summary across all seasons:
 
-## 8) Limitaciones conocidas
+- **Rows:** 6550
+- **Seasons:** 24
+- **Unique teams (home+away combined):** 42
+- **Outcome distribution (`result`):**
+  - H: 2979
+  - D: 1935
+  - A: 1636
+- **Missing values in `round`:** 614
 
-1. **Nomenclatura de fases heterogenea**: `phase` mezcla etiquetas limpias y etiquetas de fuente (ej. `Apertura` vs `VENEZUELA: Primera Division`).
-2. **Rondas faltantes**: algunas filas no contienen `round`.
-3. **Cambios de formato de liga** por temporada pueden afectar comparabilidad directa.
-4. Dependencia de estructura de fuente web (potencial rotura futura del scraper).
+Observed quality checks:
 
-## 9) Recomendaciones de uso
+- consistent header across season CSV files
+- no duplicate `match_id` in the evaluated global set
+- categorical target `result` consistently encoded as `H/D/A`
 
-- Normalizar `phase` antes de modelar.
-- Estandarizar nombres de equipos (alias historicos).
-- Usar particion temporal para ML (train temporadas antiguas, test temporadas recientes).
-- Mantener `home_score` y `away_score` para validacion, incluso si el objetivo es solo `result`.
+---
 
-## 10) Uso responsable, legal y etico
+## Known Limitations
 
-- Uso recomendado para fines educativos/investigacion.
-- Respetar terminos de uso y `robots.txt` del sitio fuente.
-- Evitar scraping agresivo (usar rate limiting y reintentos controlados).
+1. **Heterogeneous `phase` labels:** some values are normalized labels (`Apertura`) while others are source-style labels (e.g., `VENEZUELA: Primera División`).
+2. **Missing `round` values:** part of the rows has empty round information.
+3. **Competition format changes by season:** direct cross-season comparisons may require normalization.
+4. **Source dependency:** scraper stability depends on external website structure.
 
-## 11) Versionado sugerido
+---
 
-- Versionar por fecha de extraccion (ej: `vYYYY.MM.DD`)
-- Incluir changelog con:
-  - temporadas nuevas
-  - correcciones de parseo
-  - cambios de esquema
+## Recommended Preprocessing
 
-## 12) Como generar el consolidado
+- normalize `phase` into a curated taxonomy (e.g., Apertura/Clausura/Playoffs/Other)
+- standardize team names and aliases
+- use time-aware train/test splits (older seasons for training, newer for testing)
+- keep `home_score` and `away_score` for validation and feature engineering even when predicting only `result`
 
-Comando:
+---
+
+## Consolidation
+
+Generate a single consolidated CSV from all season files:
 
 ```bash
 python3 consolidate_csv.py
 ```
 
-Comando con rutas personalizadas:
+Custom paths:
 
 ```bash
 python3 consolidate_csv.py --input-glob "data/raw/futve_*_results.csv" --output "data/processed/futve_consolidated_results.csv"
 ```
+
+---
+
+## Acknowledgements
+
+- Data source: Soccerway
+- This dataset is intended for educational/research purposes.
+
+---
+
+## Inspiration
+
+- Build a robust baseline for Liga FUTVE match outcome prediction (`H/D/A`)
+- Study long-term evolution of home advantage and draw rates
+- Create reproducible football analytics workflows for Venezuelan football
 
