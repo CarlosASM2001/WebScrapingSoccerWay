@@ -7,12 +7,12 @@ from urllib.parse import urlparse
 
 import requests
 
-RESULTS_PAGE_URL = "https://ve.soccerway.com/venezuela/liga-futve-2002-2003/resultados/"
-SUMMARY_PAGE_URL = "https://us.soccerway.com/venezuela/liga-futve-2002-2003/"
-SEASON_LABEL = "2002-2003"
+RESULTS_PAGE_URL = "https://ve.soccerway.com/venezuela/liga-futve/resultados/"
+SUMMARY_PAGE_URL = "https://us.soccerway.com/venezuela/liga-futve/"
+SEASON_LABEL = "2026"
 COMPETITION_LABEL = "Liga FUTVE"
-OUTPUT_CSV_PATH = Path("data/raw/futve_2002_2003_results.csv")
-RAW_HTML_PATH = Path("data/raw/html/futve_2002_2003_results_page.html")
+OUTPUT_CSV_PATH = Path("data/raw/futve_2026_results.csv")
+RAW_HTML_PATH = Path("data/raw/html/futve_2026_results_page.html")
 USER_AGENT = (
     "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
     "(KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36"
